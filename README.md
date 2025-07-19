@@ -1,4 +1,5 @@
 📱 App Usage Analytics Dashboard
+
 This project presents an interactive dashboard built using Power BI to analyze key user behavior and engagement metrics for a mobile application. The goal is to provide insights that help product and marketing teams make informed decisions based on real-time usage data.
 
 🔍 Key Insights:

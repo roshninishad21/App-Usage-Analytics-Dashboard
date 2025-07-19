@@ -1,0 +1,1001 @@
+User_ID,Session_ID,Timestamp,App_Name,Screen_Viewed,Action,Platform,Country,Duration_sec,Is_Purchase
+U0190,S00141,03-06-2025 18:52,WhatsApp,Home,Open App,Android,USA,57,No
+U0009,S00016,02-06-2025 01:35,WhatsApp,Home,Video Call,Android,USA,263,No
+U0051,S00367,08-06-2025 09:27,Instagram,Home,Comment,Web,Brazil,219,No
+U0072,S00415,10-06-2025 21:22,Flipkart,Cart,Checkout,Android,Australia,86,No
+U0072,S00080,03-06-2025 10:47,WhatsApp,Settings,Voice Call,iOS,India,52,No
+U0089,S00310,04-06-2025 00:13,YouTube,Home,Watch Video,Android,Canada,240,No
+U0021,S00283,04-06-2025 08:03,Instagram,Home,Like,Web,Brazil,190,No
+U0018,S00024,08-06-2025 12:34,Instagram,Story,Follow,Android,Australia,153,No
+U0098,S00143,06-06-2025 03:48,Amazon,Search,Open App,Web,Australia,191,No
+U0054,S00344,04-06-2025 00:54,Flipkart,Product Page,View Product,Web,Canada,41,No
+U0187,S00126,02-06-2025 20:37,Instagram,Story,Comment,iOS,Germany,143,No
+U0197,S00398,01-06-2025 15:16,WhatsApp,Chat List,Voice Call,Android,Australia,21,No
+U0017,S00109,07-06-2025 10:52,Myntra,Cart,View Product,Web,UK,113,No
+U0165,S00235,02-06-2025 15:00,WhatsApp,Settings,Video Call,iOS,USA,131,No
+U0150,S00205,05-06-2025 02:50,WhatsApp,Chat Screen,Video Call,Android,USA,265,No
+U0029,S00079,08-06-2025 03:20,YouTube,Home,Open App,Android,Australia,221,No
+U0098,S00306,06-06-2025 07:48,Instagram,Home,Like,Web,UK,288,No
+U0138,S00385,04-06-2025 00:51,Amazon,Home,Purchase,Web,UK,62,Yes
+U0117,S00002,09-06-2025 05:10,Myntra,Cart,Browse Category,Web,UK,261,No
+U0161,S00153,10-06-2025 13:49,Flipkart,Checkout,Open App,Web,Brazil,106,No
+U0139,S00489,09-06-2025 20:37,Flipkart,Product Page,Search,Web,India,170,No
+U0093,S00450,10-06-2025 11:06,YouTube,Home,Open App,iOS,USA,34,No
+U0022,S00375,06-06-2025 12:42,Flipkart,Checkout,Open App,Android,Australia,277,No
+U0122,S00485,07-06-2025 06:07,Flipkart,Search,Purchase,Android,UK,275,Yes
+U0139,S00387,09-06-2025 07:19,Instagram,Profile,View Story,Web,USA,164,No
+U0133,S00232,02-06-2025 09:02,YouTube,Video Page,Like,Android,USA,37,No
+U0142,S00118,07-06-2025 16:41,Myntra,Home,Checkout,Android,India,41,No
+U0018,S00464,01-06-2025 08:34,WhatsApp,Home,Send Message,iOS,India,268,No
+U0125,S00110,07-06-2025 03:14,Flipkart,Product Page,Purchase,Android,Canada,297,Yes
+U0122,S00414,05-06-2025 15:09,Instagram,Profile,View Story,Android,India,54,No
+U0109,S00211,06-06-2025 07:31,WhatsApp,Settings,Voice Call,Web,India,55,No
+U0087,S00410,10-06-2025 19:17,Amazon,Cart,Purchase,Android,USA,103,Yes
+U0036,S00217,03-06-2025 02:06,Flipkart,Checkout,Add to Cart,iOS,Germany,132,No
+U0026,S00026,08-06-2025 10:04,Amazon,Cart,Checkout,Web,Australia,12,No
+U0105,S00249,06-06-2025 11:26,Amazon,Search,Search,Android,Australia,210,No
+U0001,S00200,04-06-2025 00:25,Amazon,Search,Add to Cart,iOS,UK,221,No
+U0049,S00152,03-06-2025 11:26,WhatsApp,Settings,Send Message,Android,Brazil,282,No
+U0013,S00300,06-06-2025 10:11,Amazon,Product Page,Open App,Web,Australia,276,No
+U0021,S00436,03-06-2025 02:44,Flipkart,Home,Checkout,Android,Brazil,39,No
+U0031,S00483,07-06-2025 11:33,WhatsApp,Chat List,Video Call,Android,Brazil,25,No
+U0169,S00299,07-06-2025 10:20,Instagram,Home,Like,Web,UK,138,No
+U0068,S00203,02-06-2025 11:44,Flipkart,Product Page,Search,Web,Canada,158,No
+U0003,S00235,08-06-2025 01:37,YouTube,Video Page,Open App,Web,India,42,No
+U0068,S00068,04-06-2025 23:18,Instagram,Story,Comment,Android,USA,194,No
+U0140,S00361,04-06-2025 10:36,Myntra,Category Page,Add to Cart,Web,Australia,275,No
+U0170,S00054,10-06-2025 23:47,Amazon,Checkout,View Product,Android,UK,64,No
+U0070,S00145,07-06-2025 21:09,Amazon,Checkout,Search,Android,Canada,180,No
+U0126,S00129,10-06-2025 15:02,Flipkart,Product Page,Checkout,Android,India,221,No
+U0086,S00395,02-06-2025 11:43,Myntra,Home,Open App,Web,UK,87,No
+U0144,S00005,02-06-2025 06:32,WhatsApp,Settings,Video Call,Android,Canada,81,No
+U0150,S00283,02-06-2025 16:26,Instagram,Home,Watch Reel,iOS,USA,26,No
+U0092,S00108,08-06-2025 18:14,Myntra,Product Page,Open App,Android,Canada,57,No
+U0159,S00384,02-06-2025 18:12,Myntra,Checkout,Add to Cart,Android,Australia,88,No
+U0046,S00378,04-06-2025 18:42,Flipkart,Cart,Open App,iOS,Australia,132,No
+U0028,S00196,10-06-2025 22:09,Myntra,Category Page,Purchase,Android,Australia,245,Yes
+U0090,S00157,10-06-2025 08:03,Flipkart,Search,Add to Cart,Android,USA,17,No
+U0085,S00143,10-06-2025 20:01,WhatsApp,Chat List,Video Call,Android,Australia,147,No
+U0174,S00432,07-06-2025 02:25,Myntra,Checkout,Add to Cart,iOS,India,64,No
+U0068,S00020,02-06-2025 05:36,Myntra,Category Page,Checkout,Web,Germany,181,No
+U0156,S00262,02-06-2025 07:34,WhatsApp,Chat Screen,Video Call,iOS,Brazil,102,No
+U0112,S00001,06-06-2025 21:58,Myntra,Home,Purchase,Web,Canada,105,Yes
+U0171,S00472,04-06-2025 18:09,Myntra,Cart,Open App,Web,UK,68,No
+U0171,S00210,04-06-2025 17:04,WhatsApp,Chat Screen,Voice Call,iOS,Canada,156,No
+U0108,S00341,05-06-2025 07:31,Instagram,Story,View Story,Web,Canada,94,No
+U0141,S00427,01-06-2025 00:06,Instagram,Reels,Like,iOS,UK,112,No
+U0114,S00227,08-06-2025 16:29,YouTube,Video Page,Like,Android,Brazil,247,No
+U0073,S00264,08-06-2025 13:16,WhatsApp,Chat List,Open App,Web,Brazil,176,No
+U0080,S00116,10-06-2025 04:14,Amazon,Search,Purchase,Android,USA,17,Yes
+U0157,S00436,09-06-2025 17:50,Amazon,Search,Add to Cart,Android,Germany,217,No
+U0127,S00205,03-06-2025 18:37,WhatsApp,Chat List,Video Call,Android,Canada,7,No
+U0046,S00412,08-06-2025 22:01,Amazon,Cart,Search,Web,Germany,30,No
+U0117,S00069,10-06-2025 02:50,Instagram,Story,Open App,iOS,Canada,276,No
+U0157,S00418,09-06-2025 04:24,Instagram,Reels,Like,Web,Germany,285,No
+U0122,S00231,03-06-2025 22:46,YouTube,Search,Subscribe,Android,Australia,146,No
+U0062,S00141,06-06-2025 00:06,Instagram,Profile,Follow,Android,Canada,151,No
+U0082,S00458,07-06-2025 03:29,Flipkart,Product Page,View Product,Android,USA,82,No
+U0040,S00362,03-06-2025 10:25,Flipkart,Cart,Purchase,Android,Germany,213,Yes
+U0107,S00032,03-06-2025 08:28,Myntra,Checkout,Add to Cart,iOS,Germany,15,No
+U0002,S00483,05-06-2025 00:03,Instagram,Profile,Like,iOS,Australia,204,No
+U0057,S00140,05-06-2025 23:00,YouTube,Search,Like,iOS,India,204,No
+U0043,S00431,06-06-2025 07:37,Myntra,Cart,Purchase,Android,Brazil,278,Yes
+U0145,S00340,01-06-2025 07:24,Amazon,Cart,Checkout,Android,Canada,224,No
+U0013,S00134,05-06-2025 07:31,Flipkart,Cart,Search,iOS,USA,237,No
+U0072,S00386,10-06-2025 11:10,Myntra,Product Page,Add to Cart,iOS,UK,46,No
+U0139,S00027,04-06-2025 23:33,YouTube,Home,Subscribe,Android,Canada,40,No
+U0064,S00103,10-06-2025 13:09,WhatsApp,Home,Open App,Android,Brazil,83,No
+U0172,S00059,07-06-2025 10:00,Flipkart,Search,Add to Cart,Android,Germany,136,No
+U0156,S00494,09-06-2025 12:14,Myntra,Category Page,Checkout,Web,India,88,No
+U0007,S00476,04-06-2025 13:11,Myntra,Home,Checkout,Web,Canada,197,No
+U0152,S00354,10-06-2025 10:48,YouTube,Search,Open App,Web,USA,57,No
+U0145,S00401,01-06-2025 11:12,WhatsApp,Chat Screen,Open App,iOS,Brazil,224,No
+U0130,S00332,04-06-2025 21:10,WhatsApp,Chat Screen,Open App,Android,Australia,220,No
+U0093,S00326,10-06-2025 10:17,YouTube,Home,Like,iOS,Canada,83,No
+U0134,S00495,08-06-2025 09:37,YouTube,Search,Subscribe,iOS,Brazil,280,No
+U0188,S00304,04-06-2025 01:17,YouTube,Profile,Like,iOS,Australia,130,No
+U0063,S00385,06-06-2025 06:53,Amazon,Product Page,Add to Cart,Web,Brazil,199,No
+U0084,S00094,06-06-2025 13:08,Myntra,Home,Add to Cart,Android,UK,137,No
+U0180,S00451,04-06-2025 03:26,Myntra,Product Page,Checkout,Web,India,269,No
+U0185,S00209,06-06-2025 13:24,Flipkart,Home,Search,Web,Australia,128,No
+U0115,S00406,01-06-2025 04:42,WhatsApp,Settings,Video Call,Android,UK,118,No
+U0170,S00298,05-06-2025 04:46,YouTube,Search,Watch Video,iOS,Brazil,276,No
+U0141,S00170,05-06-2025 00:04,Myntra,Cart,Purchase,Web,Germany,143,Yes
+U0031,S00370,03-06-2025 04:35,Myntra,Product Page,Browse Category,iOS,India,279,No
+U0056,S00379,06-06-2025 12:13,WhatsApp,Chat List,Send Message,iOS,Canada,273,No
+U0050,S00152,03-06-2025 14:07,Instagram,Reels,Open App,iOS,USA,159,No
+U0071,S00024,01-06-2025 14:53,Amazon,Checkout,Search,Web,UK,69,No
+U0004,S00294,04-06-2025 05:38,WhatsApp,Settings,Open App,iOS,Germany,230,No
+U0065,S00482,10-06-2025 19:18,Myntra,Category Page,Open App,iOS,India,38,No
+U0148,S00323,08-06-2025 19:26,YouTube,Profile,Open App,Android,USA,81,No
+U0064,S00061,07-06-2025 08:23,Instagram,Reels,Open App,iOS,Brazil,120,No
+U0114,S00153,10-06-2025 18:52,Instagram,Profile,Like,Web,Germany,161,No
+U0190,S00051,09-06-2025 16:16,Instagram,Home,Comment,Android,Canada,113,No
+U0062,S00089,07-06-2025 06:43,Myntra,Home,Browse Category,Android,USA,6,No
+U0153,S00241,04-06-2025 07:31,YouTube,Profile,Subscribe,Android,USA,152,No
+U0019,S00352,03-06-2025 15:44,WhatsApp,Chat Screen,Video Call,iOS,Australia,106,No
+U0058,S00332,02-06-2025 16:41,YouTube,Home,Comment,iOS,Australia,77,No
+U0079,S00305,09-06-2025 12:30,Amazon,Home,Search,Web,UK,229,No
+U0078,S00359,05-06-2025 13:54,Amazon,Cart,Purchase,iOS,Brazil,281,Yes
+U0154,S00021,05-06-2025 21:58,YouTube,Profile,Open App,Web,UK,133,No
+U0173,S00429,10-06-2025 18:58,Amazon,Home,Search,Web,Brazil,15,No
+U0196,S00388,02-06-2025 23:50,WhatsApp,Chat Screen,Open App,iOS,Brazil,231,No
+U0112,S00326,10-06-2025 06:20,Myntra,Category Page,Checkout,iOS,India,245,No
+U0083,S00344,02-06-2025 04:33,Myntra,Cart,View Product,Android,UK,215,No
+U0170,S00484,05-06-2025 13:21,WhatsApp,Settings,Voice Call,Web,India,237,No
+U0083,S00060,09-06-2025 18:57,Amazon,Product Page,View Product,iOS,Australia,268,No
+U0106,S00028,03-06-2025 03:13,Amazon,Checkout,Add to Cart,Web,UK,260,No
+U0053,S00137,07-06-2025 05:58,WhatsApp,Settings,Open App,Android,UK,229,No
+U0008,S00499,08-06-2025 04:02,WhatsApp,Settings,Open App,Web,Australia,127,No
+U0142,S00008,07-06-2025 06:48,WhatsApp,Chat List,Voice Call,iOS,India,120,No
+U0166,S00427,02-06-2025 18:02,Amazon,Cart,Open App,iOS,Canada,154,No
+U0124,S00242,03-06-2025 18:33,Instagram,Reels,Like,iOS,Brazil,79,No
+U0131,S00383,02-06-2025 13:16,YouTube,Search,Comment,Android,UK,217,No
+U0001,S00145,09-06-2025 06:15,Myntra,Checkout,View Product,iOS,Australia,255,No
+U0124,S00177,04-06-2025 18:46,Flipkart,Cart,Checkout,Web,Australia,283,No
+U0049,S00358,03-06-2025 17:12,YouTube,Profile,Watch Video,Web,Germany,124,No
+U0191,S00243,09-06-2025 00:34,YouTube,Home,Watch Video,iOS,Germany,82,No
+U0129,S00495,07-06-2025 17:09,YouTube,Home,Search,iOS,Australia,56,No
+U0117,S00008,09-06-2025 05:16,YouTube,Home,Comment,Android,Germany,84,No
+U0087,S00320,08-06-2025 21:09,Amazon,Cart,View Product,iOS,Canada,46,No
+U0082,S00321,09-06-2025 04:15,Myntra,Checkout,Add to Cart,iOS,Australia,282,No
+U0061,S00324,08-06-2025 18:53,Amazon,Checkout,Open App,iOS,USA,51,No
+U0181,S00447,02-06-2025 03:26,YouTube,Home,Subscribe,iOS,USA,158,No
+U0015,S00151,05-06-2025 01:53,Amazon,Home,View Product,iOS,Germany,79,No
+U0145,S00350,10-06-2025 00:24,Flipkart,Checkout,Add to Cart,Android,USA,94,No
+U0159,S00350,03-06-2025 17:45,Amazon,Checkout,Add to Cart,iOS,Brazil,78,No
+U0066,S00236,03-06-2025 21:43,Flipkart,Cart,Purchase,Web,India,243,Yes
+U0019,S00227,04-06-2025 22:21,Myntra,Checkout,Browse Category,Web,UK,222,No
+U0078,S00102,05-06-2025 09:02,WhatsApp,Chat Screen,Video Call,iOS,India,126,No
+U0076,S00359,04-06-2025 08:37,YouTube,Video Page,Comment,Android,Australia,207,No
+U0176,S00399,09-06-2025 11:20,Myntra,Home,Checkout,Android,Brazil,259,No
+U0091,S00113,08-06-2025 05:50,Myntra,Category Page,Checkout,Android,Brazil,133,No
+U0161,S00331,01-06-2025 10:45,WhatsApp,Chat List,Open App,iOS,Australia,230,No
+U0188,S00068,02-06-2025 00:36,Amazon,Checkout,View Product,iOS,UK,217,No
+U0139,S00449,05-06-2025 03:54,Flipkart,Search,Search,Web,Brazil,144,No
+U0076,S00383,10-06-2025 21:40,Flipkart,Product Page,Add to Cart,iOS,Australia,63,No
+U0194,S00495,03-06-2025 13:36,YouTube,Home,Search,Web,Canada,208,No
+U0102,S00008,04-06-2025 00:12,Instagram,Reels,Open App,Web,India,237,No
+U0098,S00422,08-06-2025 06:21,Myntra,Product Page,Checkout,iOS,India,124,No
+U0144,S00168,07-06-2025 22:35,YouTube,Home,Comment,Android,Canada,37,No
+U0167,S00210,02-06-2025 07:51,WhatsApp,Settings,Voice Call,Android,India,24,No
+U0025,S00121,07-06-2025 02:47,Myntra,Cart,Open App,Android,Germany,237,No
+U0151,S00381,09-06-2025 06:24,Myntra,Checkout,Add to Cart,Android,Germany,55,No
+U0009,S00354,05-06-2025 05:10,YouTube,Profile,Watch Video,Android,Germany,232,No
+U0176,S00189,07-06-2025 04:40,Flipkart,Product Page,Open App,Web,UK,36,No
+U0032,S00486,10-06-2025 15:34,YouTube,Video Page,Search,iOS,India,113,No
+U0086,S00125,02-06-2025 10:23,WhatsApp,Home,Open App,Web,USA,40,No
+U0056,S00417,10-06-2025 21:29,Instagram,Story,Comment,Android,UK,80,No
+U0038,S00067,07-06-2025 03:30,Instagram,Home,Watch Reel,iOS,Australia,94,No
+U0004,S00184,09-06-2025 23:43,Amazon,Home,Search,Android,Brazil,170,No
+U0014,S00065,09-06-2025 10:32,Amazon,Search,View Product,iOS,Brazil,63,No
+U0115,S00399,05-06-2025 02:51,WhatsApp,Home,Video Call,Web,Brazil,60,No
+U0012,S00373,09-06-2025 21:52,YouTube,Search,Comment,Web,Brazil,159,No
+U0123,S00434,05-06-2025 13:40,YouTube,Home,Open App,iOS,Canada,60,No
+U0021,S00165,07-06-2025 22:06,YouTube,Profile,Open App,Android,India,69,No
+U0150,S00281,09-06-2025 02:27,Myntra,Checkout,Purchase,iOS,Germany,276,Yes
+U0155,S00221,02-06-2025 03:04,Myntra,Cart,Checkout,Web,India,287,No
+U0116,S00455,03-06-2025 14:23,WhatsApp,Chat List,Video Call,iOS,UK,237,No
+U0025,S00161,05-06-2025 20:32,YouTube,Profile,Subscribe,iOS,Canada,135,No
+U0122,S00035,02-06-2025 00:54,Myntra,Category Page,Purchase,Android,India,226,Yes
+U0143,S00031,07-06-2025 16:08,Amazon,Product Page,Search,Web,Brazil,173,No
+U0091,S00448,08-06-2025 13:40,WhatsApp,Home,Video Call,iOS,Australia,31,No
+U0091,S00054,07-06-2025 13:48,Myntra,Checkout,View Product,Web,USA,84,No
+U0028,S00180,10-06-2025 14:50,WhatsApp,Settings,Send Message,Web,UK,63,No
+U0110,S00433,07-06-2025 09:10,Myntra,Checkout,Browse Category,Web,Brazil,290,No
+U0178,S00137,01-06-2025 07:54,Amazon,Checkout,Purchase,Android,UK,163,Yes
+U0047,S00446,02-06-2025 15:07,Myntra,Product Page,Open App,Web,Canada,210,No
+U0163,S00498,01-06-2025 08:22,Amazon,Search,Purchase,Android,Canada,276,Yes
+U0117,S00175,02-06-2025 18:58,Flipkart,Cart,Add to Cart,iOS,UK,171,No
+U0040,S00081,09-06-2025 14:00,Instagram,Home,Open App,Web,India,46,No
+U0109,S00249,07-06-2025 21:46,Myntra,Cart,Purchase,iOS,Germany,144,Yes
+U0089,S00221,02-06-2025 06:16,Flipkart,Checkout,Open App,iOS,Canada,254,No
+U0057,S00203,07-06-2025 19:39,Instagram,Reels,Open App,Android,India,109,No
+U0196,S00131,04-06-2025 07:02,Myntra,Category Page,Browse Category,iOS,India,8,No
+U0034,S00195,07-06-2025 01:25,YouTube,Profile,Search,Web,USA,261,No
+U0102,S00442,09-06-2025 10:37,Instagram,Reels,Open App,Android,Germany,14,No
+U0148,S00220,07-06-2025 12:34,YouTube,Home,Watch Video,iOS,Canada,218,No
+U0006,S00495,04-06-2025 16:41,Myntra,Home,Add to Cart,Android,Australia,240,No
+U0112,S00433,02-06-2025 04:54,WhatsApp,Chat Screen,Open App,Android,Germany,210,No
+U0080,S00382,04-06-2025 20:42,Instagram,Home,Like,Android,UK,91,No
+U0030,S00272,06-06-2025 19:15,Amazon,Checkout,Purchase,Android,Australia,183,Yes
+U0027,S00075,03-06-2025 21:53,Myntra,Category Page,Browse Category,Android,USA,83,No
+U0198,S00322,06-06-2025 14:55,WhatsApp,Home,Send Message,iOS,Australia,293,No
+U0145,S00330,08-06-2025 05:28,Instagram,Profile,Follow,Web,UK,166,No
+U0121,S00227,08-06-2025 04:24,Flipkart,Cart,Open App,iOS,Australia,145,No
+U0130,S00038,04-06-2025 12:45,Instagram,Home,Watch Reel,iOS,Germany,24,No
+U0020,S00331,10-06-2025 19:59,Amazon,Product Page,View Product,Android,Brazil,264,No
+U0142,S00489,10-06-2025 00:13,YouTube,Profile,Comment,Web,India,235,No
+U0155,S00244,06-06-2025 16:54,Instagram,Story,Watch Reel,Android,India,235,No
+U0022,S00259,08-06-2025 08:26,Amazon,Product Page,Purchase,Android,India,131,Yes
+U0135,S00268,07-06-2025 22:31,WhatsApp,Settings,Video Call,Android,UK,195,No
+U0199,S00174,08-06-2025 17:23,Myntra,Cart,Add to Cart,Web,India,176,No
+U0143,S00348,05-06-2025 09:33,Amazon,Product Page,Open App,iOS,UK,81,No
+U0170,S00073,04-06-2025 23:31,Myntra,Home,Checkout,iOS,Canada,205,No
+U0022,S00159,07-06-2025 08:37,Flipkart,Checkout,Purchase,iOS,Canada,173,Yes
+U0166,S00344,05-06-2025 19:37,Flipkart,Checkout,Open App,Web,UK,14,No
+U0055,S00175,09-06-2025 17:12,Myntra,Product Page,Browse Category,iOS,USA,120,No
+U0076,S00433,09-06-2025 23:12,Flipkart,Search,Open App,Android,Brazil,281,No
+U0197,S00317,02-06-2025 11:47,WhatsApp,Home,Voice Call,Web,Germany,83,No
+U0198,S00320,10-06-2025 04:55,Flipkart,Search,Purchase,Android,Canada,229,Yes
+U0174,S00369,03-06-2025 16:51,Amazon,Cart,View Product,iOS,Brazil,150,No
+U0137,S00123,04-06-2025 12:30,WhatsApp,Settings,Send Message,iOS,Australia,104,No
+U0119,S00394,04-06-2025 04:56,Myntra,Checkout,Add to Cart,iOS,Brazil,275,No
+U0155,S00071,10-06-2025 22:23,YouTube,Search,Search,iOS,India,251,No
+U0183,S00434,06-06-2025 20:52,Myntra,Checkout,Open App,Android,UK,47,No
+U0132,S00076,10-06-2025 10:55,Flipkart,Product Page,Add to Cart,iOS,India,118,No
+U0107,S00028,05-06-2025 12:15,YouTube,Video Page,Open App,Web,UK,125,No
+U0058,S00015,04-06-2025 15:01,YouTube,Home,Watch Video,Android,Australia,176,No
+U0074,S00470,10-06-2025 10:34,Flipkart,Search,Open App,iOS,Canada,76,No
+U0158,S00003,01-06-2025 21:38,WhatsApp,Settings,Video Call,Android,UK,115,No
+U0156,S00271,05-06-2025 19:34,Flipkart,Checkout,Purchase,Android,Australia,152,Yes
+U0013,S00123,05-06-2025 18:38,Flipkart,Product Page,Open App,Web,Australia,239,No
+U0153,S00275,01-06-2025 04:29,Amazon,Home,Add to Cart,Web,Brazil,299,No
+U0110,S00001,07-06-2025 23:53,Flipkart,Search,View Product,iOS,USA,297,No
+U0172,S00044,06-06-2025 22:56,YouTube,Search,Subscribe,iOS,India,274,No
+U0121,S00023,08-06-2025 05:34,Instagram,Home,Like,iOS,UK,134,No
+U0018,S00177,03-06-2025 17:50,WhatsApp,Home,Voice Call,Web,Canada,58,No
+U0012,S00181,07-06-2025 05:05,Instagram,Reels,View Story,iOS,Australia,94,No
+U0162,S00094,10-06-2025 05:35,WhatsApp,Settings,Video Call,Android,India,239,No
+U0012,S00406,03-06-2025 06:28,Amazon,Product Page,Search,Android,UK,163,No
+U0122,S00130,01-06-2025 09:59,Instagram,Profile,Comment,Web,USA,151,No
+U0085,S00140,02-06-2025 09:59,Myntra,Home,Purchase,iOS,Germany,209,Yes
+U0087,S00499,03-06-2025 03:00,WhatsApp,Settings,Video Call,iOS,Canada,259,No
+U0022,S00373,05-06-2025 19:55,Myntra,Checkout,View Product,Android,Germany,97,No
+U0027,S00041,04-06-2025 17:32,Instagram,Reels,Watch Reel,Web,UK,161,No
+U0177,S00228,04-06-2025 23:59,YouTube,Profile,Search,iOS,India,185,No
+U0164,S00406,01-06-2025 15:39,Instagram,Profile,Watch Reel,Android,Canada,212,No
+U0174,S00082,01-06-2025 08:30,Myntra,Checkout,Purchase,Android,Australia,229,Yes
+U0061,S00399,08-06-2025 08:10,Amazon,Search,Open App,iOS,UK,201,No
+U0040,S00348,06-06-2025 02:51,Instagram,Home,Comment,iOS,UK,232,No
+U0136,S00188,05-06-2025 12:41,Amazon,Checkout,Search,iOS,Canada,147,No
+U0189,S00096,06-06-2025 16:16,Flipkart,Home,Open App,Web,Germany,292,No
+U0181,S00229,03-06-2025 10:35,Amazon,Product Page,View Product,Web,UK,256,No
+U0019,S00232,02-06-2025 23:08,Flipkart,Home,Search,Web,Germany,49,No
+U0182,S00034,07-06-2025 06:11,WhatsApp,Chat Screen,Voice Call,Web,UK,158,No
+U0131,S00115,02-06-2025 09:08,Flipkart,Search,View Product,Android,Australia,76,No
+U0093,S00284,07-06-2025 12:16,Flipkart,Cart,Open App,iOS,Germany,287,No
+U0017,S00159,05-06-2025 12:43,Flipkart,Checkout,Open App,Web,Canada,250,No
+U0148,S00038,02-06-2025 10:13,Instagram,Profile,Like,iOS,Canada,42,No
+U0133,S00177,02-06-2025 11:02,YouTube,Profile,Subscribe,Web,Canada,98,No
+U0015,S00426,02-06-2025 09:54,Flipkart,Cart,Checkout,Web,USA,160,No
+U0182,S00116,04-06-2025 22:29,Flipkart,Search,View Product,Web,UK,45,No
+U0142,S00141,02-06-2025 10:10,Myntra,Category Page,Purchase,Web,UK,278,Yes
+U0044,S00304,07-06-2025 14:33,Amazon,Checkout,Purchase,Android,USA,177,Yes
+U0021,S00024,08-06-2025 07:09,Instagram,Home,Open App,Web,UK,112,No
+U0164,S00016,06-06-2025 15:59,Instagram,Profile,Comment,Web,Brazil,153,No
+U0063,S00413,10-06-2025 04:27,WhatsApp,Chat Screen,Video Call,Web,Germany,157,No
+U0016,S00081,06-06-2025 00:02,YouTube,Home,Subscribe,iOS,Germany,242,No
+U0037,S00161,10-06-2025 19:14,Flipkart,Product Page,Checkout,Web,UK,181,No
+U0132,S00288,02-06-2025 04:59,YouTube,Search,Watch Video,iOS,USA,243,No
+U0064,S00073,02-06-2025 02:26,Amazon,Product Page,Add to Cart,Android,UK,201,No
+U0041,S00417,04-06-2025 17:24,Instagram,Profile,View Story,Web,Canada,165,No
+U0132,S00240,06-06-2025 16:11,Flipkart,Search,Add to Cart,iOS,Germany,16,No
+U0118,S00495,03-06-2025 17:44,Amazon,Cart,Checkout,Android,Brazil,185,No
+U0127,S00306,10-06-2025 14:09,Amazon,Home,View Product,Web,Canada,245,No
+U0028,S00221,02-06-2025 12:34,Myntra,Checkout,Open App,iOS,Canada,192,No
+U0103,S00027,07-06-2025 11:43,YouTube,Video Page,Open App,Web,USA,190,No
+U0099,S00259,06-06-2025 02:58,Instagram,Reels,Open App,Web,UK,65,No
+U0096,S00407,04-06-2025 20:35,Flipkart,Home,Add to Cart,Web,UK,78,No
+U0103,S00257,01-06-2025 10:59,Flipkart,Checkout,Checkout,Android,India,75,No
+U0133,S00234,02-06-2025 16:40,WhatsApp,Chat Screen,Video Call,Web,Brazil,76,No
+U0042,S00202,08-06-2025 00:20,Myntra,Checkout,View Product,Web,Australia,158,No
+U0131,S00273,06-06-2025 13:45,Instagram,Reels,Comment,Web,Brazil,158,No
+U0085,S00345,02-06-2025 05:55,YouTube,Home,Watch Video,iOS,Brazil,162,No
+U0068,S00496,08-06-2025 11:01,WhatsApp,Home,Video Call,Web,Brazil,121,No
+U0044,S00269,08-06-2025 03:45,WhatsApp,Home,Video Call,Web,Brazil,199,No
+U0147,S00486,08-06-2025 23:17,Flipkart,Search,Open App,Android,USA,14,No
+U0039,S00212,08-06-2025 20:33,YouTube,Video Page,Like,Android,Germany,261,No
+U0187,S00032,09-06-2025 00:43,Instagram,Profile,Follow,Android,Brazil,111,No
+U0123,S00270,05-06-2025 06:53,Instagram,Reels,Follow,iOS,USA,240,No
+U0091,S00347,09-06-2025 18:48,Instagram,Reels,Comment,Web,Canada,140,No
+U0064,S00143,07-06-2025 08:23,Instagram,Profile,View Story,iOS,USA,157,No
+U0181,S00251,04-06-2025 14:34,Myntra,Category Page,Purchase,iOS,UK,291,Yes
+U0032,S00294,08-06-2025 16:45,WhatsApp,Chat Screen,Voice Call,Web,Germany,207,No
+U0011,S00148,09-06-2025 03:00,Myntra,Category Page,View Product,Android,UK,231,No
+U0055,S00104,10-06-2025 10:05,WhatsApp,Chat Screen,Video Call,Web,UK,292,No
+U0028,S00316,09-06-2025 10:18,WhatsApp,Chat Screen,Send Message,Web,USA,129,No
+U0164,S00120,01-06-2025 14:20,Amazon,Checkout,Search,Android,Germany,174,No
+U0175,S00395,02-06-2025 13:32,WhatsApp,Settings,Open App,Android,Brazil,85,No
+U0167,S00103,09-06-2025 14:24,YouTube,Profile,Like,iOS,UK,151,No
+U0167,S00294,03-06-2025 15:24,WhatsApp,Home,Open App,Web,Canada,24,No
+U0010,S00429,05-06-2025 12:24,Flipkart,Cart,Search,iOS,USA,153,No
+U0146,S00309,02-06-2025 05:18,Amazon,Home,View Product,iOS,UK,237,No
+U0130,S00240,04-06-2025 02:30,WhatsApp,Settings,Send Message,Android,Australia,62,No
+U0118,S00332,03-06-2025 22:15,Myntra,Category Page,Purchase,Web,USA,12,Yes
+U0146,S00346,09-06-2025 14:47,WhatsApp,Chat Screen,Voice Call,Android,USA,212,No
+U0103,S00343,02-06-2025 02:02,YouTube,Video Page,Open App,Android,USA,249,No
+U0067,S00197,03-06-2025 16:18,Myntra,Category Page,Open App,iOS,Australia,141,No
+U0186,S00294,01-06-2025 03:07,Myntra,Product Page,Checkout,iOS,Canada,189,No
+U0171,S00061,06-06-2025 07:05,WhatsApp,Chat List,Open App,iOS,USA,212,No
+U0164,S00470,04-06-2025 08:33,WhatsApp,Chat Screen,Open App,iOS,Brazil,118,No
+U0040,S00233,09-06-2025 12:10,Flipkart,Search,Add to Cart,Web,UK,217,No
+U0196,S00127,08-06-2025 17:46,WhatsApp,Settings,Send Message,Web,Australia,46,No
+U0181,S00186,01-06-2025 21:19,Instagram,Profile,Comment,Web,India,36,No
+U0138,S00077,02-06-2025 20:55,Instagram,Story,Comment,iOS,Australia,271,No
+U0053,S00368,07-06-2025 15:14,YouTube,Home,Subscribe,iOS,India,266,No
+U0034,S00263,05-06-2025 17:26,YouTube,Home,Like,iOS,Brazil,34,No
+U0079,S00371,01-06-2025 05:56,Instagram,Profile,Follow,iOS,UK,6,No
+U0012,S00217,04-06-2025 22:04,WhatsApp,Chat List,Open App,Web,India,282,No
+U0009,S00147,05-06-2025 15:38,Amazon,Home,Add to Cart,Android,Australia,74,No
+U0098,S00230,10-06-2025 21:27,WhatsApp,Settings,Voice Call,iOS,Germany,46,No
+U0031,S00092,07-06-2025 02:42,WhatsApp,Chat List,Voice Call,iOS,Brazil,70,No
+U0194,S00012,04-06-2025 09:28,WhatsApp,Chat List,Open App,iOS,Canada,283,No
+U0064,S00236,04-06-2025 22:31,YouTube,Profile,Search,Android,UK,101,No
+U0170,S00215,07-06-2025 23:54,WhatsApp,Home,Open App,Android,USA,110,No
+U0009,S00229,07-06-2025 19:14,Amazon,Home,Checkout,Web,Canada,29,No
+U0113,S00120,07-06-2025 03:23,Flipkart,Home,Add to Cart,Android,Australia,33,No
+U0060,S00418,09-06-2025 07:45,Flipkart,Checkout,View Product,Web,UK,300,No
+U0078,S00449,02-06-2025 15:07,Instagram,Reels,View Story,Web,Brazil,118,No
+U0016,S00286,07-06-2025 17:33,YouTube,Video Page,Watch Video,Web,USA,223,No
+U0089,S00483,08-06-2025 07:40,Instagram,Profile,Open App,Web,Germany,273,No
+U0039,S00154,05-06-2025 06:47,Myntra,Cart,Add to Cart,Android,Australia,280,No
+U0077,S00440,09-06-2025 01:12,YouTube,Search,Search,Android,Australia,242,No
+U0107,S00286,07-06-2025 00:43,Amazon,Checkout,Add to Cart,Android,Germany,129,No
+U0166,S00041,06-06-2025 02:49,Myntra,Category Page,View Product,iOS,India,279,No
+U0069,S00194,08-06-2025 15:57,WhatsApp,Chat List,Open App,Web,Brazil,25,No
+U0186,S00344,07-06-2025 08:36,Amazon,Search,Checkout,Android,Germany,111,No
+U0055,S00480,03-06-2025 03:53,Myntra,Product Page,Open App,Web,India,250,No
+U0053,S00204,03-06-2025 17:21,Flipkart,Checkout,Purchase,Web,UK,149,Yes
+U0167,S00184,04-06-2025 12:13,YouTube,Profile,Comment,iOS,UK,267,No
+U0185,S00241,09-06-2025 15:58,YouTube,Profile,Open App,iOS,USA,194,No
+U0145,S00443,03-06-2025 12:25,Myntra,Cart,Open App,Web,USA,13,No
+U0149,S00369,05-06-2025 18:01,Myntra,Checkout,Checkout,iOS,USA,105,No
+U0146,S00427,03-06-2025 19:06,Myntra,Category Page,Add to Cart,iOS,Brazil,177,No
+U0165,S00379,06-06-2025 13:57,Myntra,Cart,Purchase,iOS,USA,185,Yes
+U0140,S00251,03-06-2025 02:15,Flipkart,Search,Purchase,Web,Canada,35,Yes
+U0172,S00025,09-06-2025 16:42,Instagram,Home,Open App,Android,Germany,75,No
+U0182,S00078,01-06-2025 02:29,WhatsApp,Chat List,Open App,Android,Brazil,238,No
+U0164,S00342,08-06-2025 00:21,Myntra,Home,Checkout,iOS,Canada,254,No
+U0142,S00211,01-06-2025 03:14,Amazon,Home,Checkout,Android,Brazil,145,No
+U0129,S00417,08-06-2025 22:33,Instagram,Reels,Open App,Web,Germany,96,No
+U0039,S00124,03-06-2025 04:24,Amazon,Home,Checkout,Web,Brazil,134,No
+U0021,S00192,05-06-2025 14:52,Myntra,Product Page,Add to Cart,iOS,Brazil,129,No
+U0176,S00424,10-06-2025 15:31,WhatsApp,Chat List,Voice Call,Android,Canada,21,No
+U0097,S00283,06-06-2025 09:58,Amazon,Cart,Add to Cart,Android,Canada,9,No
+U0128,S00433,05-06-2025 22:29,WhatsApp,Chat List,Open App,Web,Australia,174,No
+U0011,S00118,03-06-2025 09:43,Instagram,Home,Comment,Web,Brazil,248,No
+U0176,S00474,04-06-2025 04:33,Myntra,Home,Open App,Web,Brazil,21,No
+U0054,S00301,02-06-2025 15:22,Flipkart,Product Page,Open App,Web,Australia,208,No
+U0145,S00124,07-06-2025 10:44,Amazon,Product Page,Search,iOS,Canada,281,No
+U0036,S00405,08-06-2025 20:13,Myntra,Cart,Purchase,Web,India,261,Yes
+U0026,S00224,03-06-2025 15:23,WhatsApp,Chat Screen,Open App,Android,UK,208,No
+U0070,S00402,06-06-2025 03:01,Myntra,Home,Purchase,iOS,USA,187,Yes
+U0048,S00349,07-06-2025 15:58,Instagram,Profile,Like,Web,Germany,48,No
+U0183,S00038,01-06-2025 22:24,Instagram,Reels,View Story,iOS,USA,199,No
+U0082,S00185,02-06-2025 05:05,WhatsApp,Chat List,Video Call,Android,India,162,No
+U0027,S00068,01-06-2025 23:50,YouTube,Video Page,Watch Video,Android,Germany,234,No
+U0007,S00046,05-06-2025 00:38,Instagram,Profile,Open App,Web,India,171,No
+U0106,S00199,09-06-2025 20:45,YouTube,Home,Watch Video,Android,Canada,291,No
+U0044,S00351,05-06-2025 07:57,Flipkart,Checkout,Checkout,Android,USA,142,No
+U0038,S00033,02-06-2025 21:39,Myntra,Product Page,Add to Cart,iOS,UK,220,No
+U0093,S00129,03-06-2025 19:20,Myntra,Cart,Open App,Web,Canada,258,No
+U0028,S00070,04-06-2025 11:11,Instagram,Story,Like,Android,Germany,175,No
+U0113,S00172,05-06-2025 21:35,Instagram,Profile,Watch Reel,Web,Brazil,74,No
+U0178,S00103,06-06-2025 10:48,Myntra,Product Page,Checkout,iOS,USA,208,No
+U0178,S00325,06-06-2025 14:04,Myntra,Product Page,Purchase,Web,Australia,129,Yes
+U0101,S00187,02-06-2025 07:05,Myntra,Cart,View Product,Web,USA,284,No
+U0187,S00237,09-06-2025 01:25,Flipkart,Checkout,Open App,Android,Germany,154,No
+U0173,S00256,02-06-2025 14:00,WhatsApp,Home,Video Call,Web,UK,128,No
+U0109,S00405,05-06-2025 06:56,Myntra,Category Page,Purchase,Android,Germany,250,Yes
+U0130,S00473,10-06-2025 21:28,Instagram,Profile,Comment,Web,Germany,283,No
+U0138,S00305,08-06-2025 06:15,Amazon,Product Page,Purchase,Android,India,132,Yes
+U0166,S00314,01-06-2025 12:05,WhatsApp,Chat Screen,Send Message,Web,Canada,209,No
+U0003,S00051,03-06-2025 22:39,Myntra,Cart,Open App,Android,Brazil,270,No
+U0096,S00201,06-06-2025 06:26,Instagram,Story,Like,Web,Brazil,261,No
+U0124,S00054,04-06-2025 08:40,Flipkart,Product Page,Open App,iOS,India,64,No
+U0080,S00176,06-06-2025 04:20,WhatsApp,Chat List,Voice Call,Android,Brazil,252,No
+U0113,S00370,08-06-2025 22:15,Myntra,Cart,Open App,iOS,UK,39,No
+U0030,S00012,10-06-2025 15:52,Myntra,Home,Purchase,iOS,Canada,60,Yes
+U0133,S00090,07-06-2025 06:42,WhatsApp,Chat List,Send Message,Android,UK,291,No
+U0104,S00323,03-06-2025 02:22,YouTube,Profile,Search,Android,Canada,226,No
+U0158,S00453,03-06-2025 05:52,YouTube,Home,Subscribe,iOS,Brazil,224,No
+U0055,S00106,04-06-2025 04:00,YouTube,Home,Subscribe,Web,Australia,37,No
+U0048,S00188,04-06-2025 17:00,Instagram,Home,Comment,Android,Germany,63,No
+U0164,S00161,07-06-2025 19:00,Myntra,Cart,Checkout,iOS,Brazil,205,No
+U0091,S00433,06-06-2025 05:01,Instagram,Home,Watch Reel,Web,USA,157,No
+U0035,S00161,02-06-2025 08:11,Instagram,Home,Follow,Android,UK,64,No
+U0037,S00262,05-06-2025 10:04,Flipkart,Product Page,Purchase,iOS,Brazil,75,Yes
+U0048,S00250,08-06-2025 05:32,Instagram,Profile,Like,Web,Canada,93,No
+U0074,S00072,03-06-2025 03:05,Instagram,Story,Like,iOS,Australia,235,No
+U0003,S00249,02-06-2025 13:16,Instagram,Home,Watch Reel,Android,Australia,201,No
+U0176,S00252,05-06-2025 17:29,Instagram,Profile,Like,Web,Australia,232,No
+U0145,S00016,10-06-2025 01:19,YouTube,Search,Open App,Android,UK,21,No
+U0074,S00087,09-06-2025 21:11,Myntra,Category Page,Checkout,iOS,Brazil,258,No
+U0030,S00138,09-06-2025 19:39,Instagram,Home,Comment,Web,Australia,192,No
+U0113,S00280,03-06-2025 11:40,Instagram,Home,Follow,iOS,India,131,No
+U0068,S00179,10-06-2025 19:26,Myntra,Home,Add to Cart,Android,Germany,65,No
+U0151,S00353,04-06-2025 23:44,Flipkart,Search,Purchase,Web,Brazil,224,Yes
+U0053,S00417,03-06-2025 08:30,Flipkart,Checkout,Search,Android,Brazil,184,No
+U0138,S00087,04-06-2025 16:22,Instagram,Reels,Comment,Web,UK,153,No
+U0174,S00418,02-06-2025 02:00,Instagram,Reels,Comment,Android,Australia,215,No
+U0033,S00360,10-06-2025 20:29,Amazon,Product Page,Purchase,Android,USA,79,Yes
+U0195,S00432,08-06-2025 16:39,WhatsApp,Chat Screen,Send Message,iOS,Germany,77,No
+U0107,S00193,06-06-2025 03:25,Instagram,Reels,Follow,Android,Canada,52,No
+U0095,S00233,06-06-2025 13:16,YouTube,Video Page,Subscribe,iOS,Brazil,6,No
+U0163,S00341,08-06-2025 22:24,WhatsApp,Home,Video Call,iOS,Australia,37,No
+U0110,S00423,03-06-2025 09:50,Instagram,Profile,View Story,iOS,UK,170,No
+U0148,S00067,07-06-2025 10:35,Myntra,Product Page,Checkout,iOS,Australia,180,No
+U0026,S00321,09-06-2025 22:03,WhatsApp,Home,Open App,iOS,India,68,No
+U0001,S00491,05-06-2025 20:49,Flipkart,Cart,Add to Cart,Android,Canada,72,No
+U0071,S00048,08-06-2025 10:44,WhatsApp,Chat Screen,Send Message,iOS,UK,47,No
+U0102,S00321,04-06-2025 11:25,Myntra,Category Page,Open App,Web,Canada,124,No
+U0025,S00001,03-06-2025 10:16,YouTube,Home,Subscribe,iOS,India,72,No
+U0175,S00228,01-06-2025 02:32,Instagram,Story,Comment,Android,Canada,180,No
+U0034,S00245,01-06-2025 19:20,Amazon,Cart,Purchase,Android,Germany,50,Yes
+U0081,S00189,04-06-2025 09:42,WhatsApp,Home,Open App,Android,Germany,73,No
+U0136,S00289,01-06-2025 02:18,WhatsApp,Chat List,Open App,Web,Canada,89,No
+U0055,S00322,09-06-2025 12:19,YouTube,Video Page,Subscribe,Android,Germany,231,No
+U0036,S00386,02-06-2025 09:37,Flipkart,Home,Open App,Web,Canada,201,No
+U0036,S00127,04-06-2025 03:37,Myntra,Cart,View Product,Web,India,132,No
+U0007,S00435,10-06-2025 15:18,Instagram,Reels,Follow,Web,UK,110,No
+U0101,S00152,08-06-2025 08:26,Instagram,Story,Follow,Android,Australia,127,No
+U0062,S00256,08-06-2025 06:14,YouTube,Profile,Open App,Web,India,275,No
+U0034,S00199,10-06-2025 19:03,Amazon,Product Page,View Product,Web,Germany,192,No
+U0198,S00038,01-06-2025 04:33,Instagram,Story,Like,Web,India,12,No
+U0016,S00486,09-06-2025 23:31,Myntra,Category Page,Open App,iOS,Brazil,151,No
+U0180,S00206,01-06-2025 22:30,WhatsApp,Settings,Video Call,Web,Brazil,280,No
+U0022,S00159,01-06-2025 21:34,Instagram,Story,Watch Reel,Web,USA,84,No
+U0151,S00325,09-06-2025 16:24,Instagram,Reels,Like,Web,Canada,38,No
+U0062,S00030,03-06-2025 18:45,Myntra,Cart,Purchase,Android,Germany,64,Yes
+U0171,S00380,08-06-2025 11:41,YouTube,Home,Watch Video,Web,USA,66,No
+U0003,S00084,06-06-2025 15:33,Amazon,Search,Purchase,iOS,Brazil,269,Yes
+U0096,S00065,09-06-2025 12:44,WhatsApp,Chat Screen,Send Message,iOS,Canada,65,No
+U0070,S00269,01-06-2025 17:26,Amazon,Product Page,Add to Cart,iOS,Canada,300,No
+U0117,S00262,05-06-2025 02:20,WhatsApp,Home,Video Call,Android,Germany,295,No
+U0066,S00396,02-06-2025 04:05,Flipkart,Product Page,Search,Web,Canada,64,No
+U0012,S00440,10-06-2025 19:38,Flipkart,Checkout,Open App,Android,USA,28,No
+U0039,S00092,10-06-2025 18:09,YouTube,Video Page,Like,Android,Brazil,219,No
+U0107,S00469,09-06-2025 04:41,Flipkart,Product Page,Search,iOS,UK,44,No
+U0129,S00345,01-06-2025 14:22,Instagram,Reels,Open App,Android,USA,269,No
+U0120,S00444,04-06-2025 05:05,Amazon,Cart,Open App,iOS,UK,49,No
+U0095,S00103,04-06-2025 07:37,Instagram,Profile,Open App,Web,Australia,160,No
+U0095,S00303,06-06-2025 14:43,WhatsApp,Chat List,Video Call,Android,Canada,284,No
+U0105,S00013,03-06-2025 15:37,Flipkart,Search,Open App,Web,UK,9,No
+U0097,S00435,09-06-2025 09:32,Myntra,Home,Purchase,Web,UK,58,Yes
+U0108,S00252,01-06-2025 16:21,Flipkart,Checkout,Search,Android,Canada,148,No
+U0134,S00212,08-06-2025 23:22,Amazon,Home,Search,iOS,Germany,48,No
+U0035,S00327,10-06-2025 07:54,Instagram,Home,Comment,iOS,India,295,No
+U0034,S00122,04-06-2025 07:38,Amazon,Cart,Purchase,iOS,Australia,166,Yes
+U0116,S00140,03-06-2025 15:47,YouTube,Video Page,Watch Video,Android,USA,74,No
+U0028,S00085,06-06-2025 02:45,Instagram,Home,View Story,iOS,UK,213,No
+U0198,S00107,06-06-2025 03:24,Amazon,Checkout,View Product,iOS,Germany,140,No
+U0176,S00156,10-06-2025 09:39,Amazon,Home,Search,Web,Canada,25,No
+U0024,S00365,03-06-2025 19:46,Flipkart,Product Page,Search,iOS,Germany,267,No
+U0045,S00016,05-06-2025 14:25,Amazon,Product Page,View Product,iOS,Brazil,286,No
+U0027,S00412,10-06-2025 00:45,Flipkart,Home,Add to Cart,Android,India,11,No
+U0051,S00422,05-06-2025 13:23,Amazon,Search,Search,iOS,Canada,48,No
+U0006,S00034,03-06-2025 05:59,Instagram,Reels,Open App,Web,Germany,70,No
+U0011,S00483,06-06-2025 05:52,Amazon,Product Page,Open App,Android,USA,298,No
+U0008,S00196,08-06-2025 18:33,YouTube,Profile,Like,iOS,USA,186,No
+U0072,S00229,02-06-2025 16:35,Flipkart,Search,View Product,Android,Brazil,130,No
+U0106,S00452,07-06-2025 06:22,WhatsApp,Chat Screen,Video Call,iOS,India,49,No
+U0108,S00103,08-06-2025 07:29,Myntra,Cart,Browse Category,Web,USA,283,No
+U0092,S00246,07-06-2025 04:41,Amazon,Cart,Purchase,iOS,UK,294,Yes
+U0070,S00093,01-06-2025 07:07,Instagram,Reels,Like,iOS,Brazil,117,No
+U0121,S00272,05-06-2025 01:36,Amazon,Product Page,Open App,Web,USA,86,No
+U0062,S00137,07-06-2025 01:43,Amazon,Search,Purchase,Web,India,117,Yes
+U0045,S00091,03-06-2025 16:35,Instagram,Profile,Watch Reel,Web,UK,188,No
+U0180,S00181,07-06-2025 11:00,Instagram,Home,Follow,Web,USA,293,No
+U0080,S00090,06-06-2025 13:55,Flipkart,Cart,Checkout,Android,India,33,No
+U0006,S00270,06-06-2025 10:31,Flipkart,Checkout,Search,Android,UK,108,No
+U0046,S00471,10-06-2025 03:06,Flipkart,Product Page,Purchase,iOS,India,16,Yes
+U0037,S00397,02-06-2025 06:17,Flipkart,Checkout,Purchase,Web,Australia,191,Yes
+U0170,S00203,07-06-2025 16:01,Amazon,Product Page,Purchase,Android,UK,159,Yes
+U0188,S00486,05-06-2025 23:17,Myntra,Category Page,Browse Category,Web,Germany,167,No
+U0158,S00403,05-06-2025 01:26,Flipkart,Checkout,Purchase,Android,Canada,94,Yes
+U0177,S00151,02-06-2025 10:46,YouTube,Video Page,Subscribe,Android,Canada,5,No
+U0047,S00309,04-06-2025 14:53,WhatsApp,Settings,Open App,Web,USA,294,No
+U0085,S00382,01-06-2025 21:14,Amazon,Cart,Search,Android,UK,168,No
+U0172,S00328,09-06-2025 07:08,Flipkart,Home,Purchase,iOS,Germany,10,Yes
+U0178,S00035,04-06-2025 23:42,Myntra,Category Page,Browse Category,iOS,Australia,60,No
+U0099,S00225,09-06-2025 08:02,WhatsApp,Home,Open App,iOS,USA,216,No
+U0140,S00193,02-06-2025 03:41,YouTube,Profile,Watch Video,iOS,Australia,300,No
+U0116,S00038,10-06-2025 02:14,WhatsApp,Chat List,Send Message,Android,UK,15,No
+U0019,S00176,02-06-2025 22:27,Myntra,Product Page,Open App,iOS,USA,43,No
+U0153,S00315,06-06-2025 11:49,Instagram,Home,Watch Reel,Web,India,225,No
+U0041,S00028,02-06-2025 03:39,WhatsApp,Chat List,Video Call,iOS,USA,102,No
+U0073,S00153,03-06-2025 16:51,YouTube,Video Page,Subscribe,Android,India,206,No
+U0014,S00185,01-06-2025 01:02,Instagram,Profile,View Story,iOS,India,155,No
+U0025,S00014,03-06-2025 08:30,WhatsApp,Settings,Send Message,Android,Canada,154,No
+U0079,S00402,05-06-2025 12:32,Amazon,Cart,Open App,iOS,Germany,140,No
+U0048,S00190,05-06-2025 08:09,Amazon,Checkout,Add to Cart,iOS,USA,233,No
+U0120,S00135,03-06-2025 13:46,Amazon,Product Page,Add to Cart,iOS,Brazil,36,No
+U0172,S00177,10-06-2025 04:41,Flipkart,Home,Open App,Web,Germany,121,No
+U0134,S00215,07-06-2025 02:13,Instagram,Home,Like,Web,Australia,248,No
+U0077,S00041,05-06-2025 11:48,Instagram,Story,Like,Web,India,262,No
+U0194,S00230,02-06-2025 23:12,Instagram,Story,Open App,Android,USA,103,No
+U0021,S00350,05-06-2025 22:53,Flipkart,Home,Add to Cart,Android,Australia,80,No
+U0187,S00469,10-06-2025 04:27,Instagram,Reels,Watch Reel,Android,India,203,No
+U0084,S00439,04-06-2025 03:25,Instagram,Profile,Comment,Web,Germany,11,No
+U0107,S00077,02-06-2025 16:28,WhatsApp,Settings,Open App,Web,Brazil,56,No
+U0074,S00445,07-06-2025 02:15,Amazon,Checkout,Open App,iOS,Germany,140,No
+U0156,S00243,01-06-2025 10:13,YouTube,Profile,Comment,Android,UK,211,No
+U0175,S00356,05-06-2025 13:41,Flipkart,Checkout,Checkout,Android,Germany,174,No
+U0191,S00244,04-06-2025 01:20,WhatsApp,Chat List,Open App,iOS,India,177,No
+U0126,S00440,08-06-2025 22:06,Myntra,Product Page,View Product,Web,India,121,No
+U0114,S00397,10-06-2025 09:30,Flipkart,Product Page,Purchase,iOS,UK,218,Yes
+U0114,S00109,10-06-2025 08:59,Instagram,Home,View Story,iOS,Canada,253,No
+U0132,S00406,02-06-2025 19:24,Instagram,Reels,Open App,Android,UK,264,No
+U0146,S00015,02-06-2025 23:26,YouTube,Search,Comment,Android,Australia,107,No
+U0117,S00026,05-06-2025 02:24,Amazon,Search,Open App,Web,USA,145,No
+U0102,S00326,02-06-2025 09:49,Myntra,Cart,Checkout,Web,India,128,No
+U0115,S00091,10-06-2025 21:41,Myntra,Cart,Checkout,iOS,Brazil,287,No
+U0067,S00384,10-06-2025 10:52,Myntra,Product Page,Browse Category,Web,India,150,No
+U0042,S00438,07-06-2025 12:15,Amazon,Cart,Open App,Android,Australia,118,No
+U0069,S00334,05-06-2025 15:49,WhatsApp,Chat List,Send Message,Web,India,9,No
+U0045,S00308,10-06-2025 02:41,YouTube,Search,Subscribe,Android,USA,134,No
+U0182,S00330,04-06-2025 03:11,Instagram,Reels,Follow,iOS,Germany,183,No
+U0120,S00155,08-06-2025 16:55,YouTube,Video Page,Search,Web,Australia,208,No
+U0131,S00340,10-06-2025 14:16,Instagram,Home,Open App,iOS,Brazil,149,No
+U0017,S00173,04-06-2025 03:29,Myntra,Home,Add to Cart,Web,UK,146,No
+U0039,S00265,09-06-2025 17:01,Myntra,Product Page,Browse Category,Android,India,211,No
+U0185,S00014,08-06-2025 10:58,WhatsApp,Chat Screen,Send Message,iOS,UK,137,No
+U0189,S00019,07-06-2025 15:12,YouTube,Profile,Like,Web,Brazil,102,No
+U0137,S00327,09-06-2025 22:19,Myntra,Category Page,Purchase,iOS,Canada,188,Yes
+U0169,S00449,07-06-2025 08:26,Instagram,Reels,View Story,Android,UK,54,No
+U0067,S00372,10-06-2025 04:43,YouTube,Search,Subscribe,Web,Australia,98,No
+U0057,S00182,03-06-2025 12:59,WhatsApp,Chat Screen,Open App,Web,Australia,162,No
+U0067,S00300,04-06-2025 08:17,YouTube,Video Page,Watch Video,iOS,Australia,65,No
+U0150,S00298,08-06-2025 01:28,YouTube,Home,Subscribe,Android,Germany,104,No
+U0098,S00272,04-06-2025 09:28,Instagram,Home,Follow,iOS,India,82,No
+U0105,S00292,06-06-2025 04:56,Flipkart,Search,View Product,Android,UK,97,No
+U0162,S00091,04-06-2025 13:34,Amazon,Cart,View Product,Web,India,7,No
+U0195,S00397,02-06-2025 22:02,YouTube,Video Page,Search,Web,Australia,86,No
+U0158,S00223,08-06-2025 04:59,YouTube,Home,Search,iOS,Germany,224,No
+U0010,S00274,03-06-2025 06:27,YouTube,Profile,Open App,Web,UK,12,No
+U0005,S00347,01-06-2025 01:07,Myntra,Checkout,Browse Category,Web,Canada,132,No
+U0034,S00053,05-06-2025 08:44,Flipkart,Product Page,View Product,Web,Brazil,161,No
+U0077,S00486,04-06-2025 07:24,Flipkart,Home,Open App,iOS,Canada,271,No
+U0176,S00069,04-06-2025 21:35,Instagram,Reels,Like,iOS,UK,101,No
+U0059,S00115,09-06-2025 06:33,Flipkart,Cart,Open App,Android,USA,16,No
+U0094,S00365,08-06-2025 09:38,Instagram,Story,Open App,Android,Germany,135,No
+U0013,S00339,02-06-2025 05:31,Instagram,Home,Comment,Web,Australia,15,No
+U0114,S00195,02-06-2025 09:44,Amazon,Home,Add to Cart,Web,UK,247,No
+U0178,S00352,08-06-2025 04:07,WhatsApp,Chat List,Send Message,Android,UK,220,No
+U0160,S00311,08-06-2025 23:20,WhatsApp,Home,Voice Call,Android,Germany,58,No
+U0030,S00402,02-06-2025 05:01,Instagram,Home,Watch Reel,iOS,USA,107,No
+U0092,S00361,05-06-2025 15:53,Myntra,Checkout,Browse Category,iOS,USA,25,No
+U0177,S00478,06-06-2025 11:15,Instagram,Profile,View Story,iOS,USA,6,No
+U0147,S00343,06-06-2025 14:55,Amazon,Home,Open App,Android,India,266,No
+U0165,S00119,06-06-2025 04:43,Amazon,Home,View Product,iOS,UK,242,No
+U0011,S00437,04-06-2025 07:20,Amazon,Home,Search,iOS,Australia,165,No
+U0195,S00456,01-06-2025 12:31,YouTube,Home,Open App,Android,Australia,75,No
+U0092,S00458,05-06-2025 23:31,WhatsApp,Chat List,Voice Call,Web,UK,52,No
+U0030,S00206,05-06-2025 13:17,Myntra,Product Page,Browse Category,iOS,UK,202,No
+U0167,S00454,10-06-2025 01:36,WhatsApp,Settings,Video Call,Android,India,72,No
+U0027,S00214,07-06-2025 17:18,WhatsApp,Home,Send Message,iOS,Australia,296,No
+U0157,S00195,09-06-2025 20:45,WhatsApp,Settings,Send Message,iOS,Brazil,19,No
+U0125,S00058,05-06-2025 16:18,WhatsApp,Chat List,Video Call,iOS,India,37,No
+U0181,S00445,08-06-2025 17:07,Myntra,Product Page,Open App,Web,Australia,300,No
+U0133,S00268,08-06-2025 19:56,WhatsApp,Chat List,Voice Call,Web,Brazil,53,No
+U0089,S00340,08-06-2025 16:40,YouTube,Search,Like,Web,Germany,81,No
+U0165,S00479,02-06-2025 18:51,Instagram,Home,Open App,Web,Australia,245,No
+U0193,S00252,04-06-2025 15:33,YouTube,Search,Open App,Android,UK,147,No
+U0141,S00330,05-06-2025 07:23,Amazon,Checkout,Search,iOS,Australia,125,No
+U0147,S00230,02-06-2025 00:02,Amazon,Cart,Add to Cart,iOS,Germany,166,No
+U0168,S00010,02-06-2025 04:01,Amazon,Cart,Purchase,iOS,Germany,23,Yes
+U0155,S00494,08-06-2025 01:02,Instagram,Home,Open App,Web,UK,265,No
+U0172,S00234,04-06-2025 21:04,Instagram,Story,Follow,iOS,Australia,32,No
+U0144,S00393,08-06-2025 01:14,Flipkart,Cart,View Product,Web,Germany,191,No
+U0025,S00389,08-06-2025 11:55,WhatsApp,Settings,Open App,Android,India,179,No
+U0134,S00192,08-06-2025 23:43,Myntra,Product Page,Checkout,Android,India,89,No
+U0191,S00370,05-06-2025 15:44,YouTube,Search,Subscribe,Android,UK,105,No
+U0056,S00235,10-06-2025 09:09,Flipkart,Home,Add to Cart,Android,Canada,178,No
+U0163,S00429,08-06-2025 15:32,Amazon,Cart,Open App,Web,India,235,No
+U0002,S00272,09-06-2025 09:02,YouTube,Search,Like,Android,Brazil,226,No
+U0200,S00472,03-06-2025 00:23,Instagram,Profile,Comment,Web,Brazil,93,No
+U0100,S00337,07-06-2025 19:59,WhatsApp,Chat List,Open App,Web,UK,263,No
+U0178,S00391,03-06-2025 19:47,YouTube,Profile,Comment,iOS,Germany,180,No
+U0036,S00212,07-06-2025 20:31,Myntra,Cart,Browse Category,Web,Canada,267,No
+U0183,S00378,07-06-2025 07:09,Myntra,Checkout,View Product,Web,USA,107,No
+U0075,S00352,04-06-2025 22:17,Flipkart,Checkout,Purchase,Web,USA,96,Yes
+U0030,S00390,05-06-2025 00:11,Instagram,Reels,Follow,Web,Germany,297,No
+U0109,S00414,01-06-2025 03:29,WhatsApp,Settings,Voice Call,Web,India,17,No
+U0172,S00029,03-06-2025 06:35,YouTube,Search,Open App,iOS,Australia,87,No
+U0016,S00354,09-06-2025 22:10,Myntra,Product Page,Browse Category,iOS,USA,282,No
+U0027,S00316,10-06-2025 21:01,Amazon,Product Page,Add to Cart,Web,Canada,292,No
+U0061,S00262,09-06-2025 22:10,Flipkart,Checkout,Add to Cart,Web,UK,29,No
+U0176,S00161,07-06-2025 06:46,YouTube,Profile,Like,Android,India,133,No
+U0058,S00467,08-06-2025 05:03,Flipkart,Checkout,Add to Cart,Web,Canada,193,No
+U0050,S00151,06-06-2025 02:33,Instagram,Story,Follow,Android,Canada,43,No
+U0132,S00062,05-06-2025 07:00,Flipkart,Search,Purchase,Android,Germany,147,Yes
+U0042,S00300,10-06-2025 15:01,Instagram,Reels,View Story,iOS,India,174,No
+U0040,S00476,04-06-2025 16:05,YouTube,Search,Open App,Web,India,159,No
+U0182,S00163,06-06-2025 23:28,YouTube,Video Page,Open App,Android,USA,271,No
+U0107,S00279,07-06-2025 02:38,Amazon,Checkout,Search,iOS,India,183,No
+U0085,S00170,05-06-2025 02:31,Flipkart,Search,Purchase,iOS,USA,276,Yes
+U0172,S00178,06-06-2025 01:41,YouTube,Home,Open App,Android,Canada,129,No
+U0030,S00198,03-06-2025 22:03,Amazon,Product Page,Add to Cart,Web,Canada,149,No
+U0132,S00412,06-06-2025 18:55,Amazon,Checkout,View Product,iOS,Germany,27,No
+U0132,S00043,02-06-2025 02:12,Myntra,Category Page,View Product,Android,Australia,280,No
+U0017,S00108,08-06-2025 15:02,Instagram,Home,Follow,Web,Australia,114,No
+U0053,S00276,10-06-2025 10:18,WhatsApp,Settings,Open App,Web,Canada,227,No
+U0007,S00236,09-06-2025 03:45,WhatsApp,Home,Send Message,iOS,India,49,No
+U0065,S00286,01-06-2025 19:14,Amazon,Home,Search,Web,Australia,121,No
+U0116,S00323,05-06-2025 14:26,Myntra,Cart,Add to Cart,iOS,UK,13,No
+U0002,S00329,09-06-2025 04:41,YouTube,Home,Comment,Web,India,28,No
+U0129,S00055,04-06-2025 07:08,WhatsApp,Home,Voice Call,Web,UK,49,No
+U0102,S00421,08-06-2025 12:25,Myntra,Cart,Add to Cart,Android,Germany,85,No
+U0192,S00201,10-06-2025 01:34,Instagram,Story,View Story,Web,UK,78,No
+U0142,S00448,07-06-2025 07:34,Myntra,Product Page,Open App,Android,India,26,No
+U0101,S00276,07-06-2025 05:30,Amazon,Checkout,Checkout,Android,UK,112,No
+U0106,S00464,08-06-2025 08:22,WhatsApp,Chat Screen,Send Message,Web,USA,87,No
+U0065,S00100,02-06-2025 07:17,Flipkart,Search,Checkout,Android,Canada,295,No
+U0166,S00282,01-06-2025 19:58,Amazon,Checkout,Add to Cart,iOS,Canada,39,No
+U0186,S00298,06-06-2025 13:02,Myntra,Home,Browse Category,iOS,UK,70,No
+U0073,S00318,01-06-2025 19:03,WhatsApp,Chat List,Open App,Android,UK,253,No
+U0169,S00157,08-06-2025 21:21,YouTube,Video Page,Comment,Web,USA,294,No
+U0110,S00087,01-06-2025 01:19,Instagram,Reels,Watch Reel,iOS,USA,118,No
+U0093,S00069,08-06-2025 17:34,WhatsApp,Settings,Voice Call,Web,UK,250,No
+U0199,S00157,06-06-2025 12:58,YouTube,Profile,Watch Video,Web,India,94,No
+U0036,S00457,07-06-2025 03:04,WhatsApp,Home,Voice Call,Android,UK,44,No
+U0130,S00324,01-06-2025 08:31,WhatsApp,Home,Open App,Web,Brazil,212,No
+U0142,S00134,07-06-2025 04:24,Instagram,Story,Open App,Web,Germany,81,No
+U0198,S00302,09-06-2025 08:13,Myntra,Cart,Browse Category,iOS,USA,242,No
+U0094,S00258,01-06-2025 02:53,Instagram,Home,Like,Web,USA,89,No
+U0041,S00092,07-06-2025 10:39,Instagram,Story,Like,Web,Canada,79,No
+U0011,S00113,09-06-2025 15:55,WhatsApp,Settings,Voice Call,iOS,USA,37,No
+U0011,S00343,03-06-2025 08:27,Myntra,Product Page,Browse Category,Web,Australia,189,No
+U0012,S00021,08-06-2025 09:05,YouTube,Profile,Like,iOS,India,271,No
+U0149,S00279,07-06-2025 11:41,WhatsApp,Chat Screen,Voice Call,Android,Germany,198,No
+U0020,S00265,03-06-2025 20:41,Myntra,Checkout,Purchase,iOS,USA,269,Yes
+U0125,S00406,06-06-2025 11:38,YouTube,Video Page,Watch Video,Web,India,261,No
+U0059,S00040,06-06-2025 20:30,Flipkart,Cart,Search,Web,UK,113,No
+U0093,S00309,09-06-2025 03:52,Flipkart,Search,Search,Android,Canada,122,No
+U0030,S00247,08-06-2025 16:22,YouTube,Video Page,Subscribe,iOS,Germany,112,No
+U0106,S00012,03-06-2025 18:32,Instagram,Story,Follow,Android,USA,298,No
+U0162,S00263,01-06-2025 10:42,Instagram,Story,View Story,Web,USA,33,No
+U0133,S00491,05-06-2025 14:42,Flipkart,Product Page,Search,Web,Brazil,14,No
+U0056,S00230,07-06-2025 21:37,WhatsApp,Chat Screen,Open App,iOS,Australia,251,No
+U0154,S00074,10-06-2025 00:58,Flipkart,Search,Add to Cart,Web,Australia,98,No
+U0186,S00352,04-06-2025 21:34,Instagram,Reels,View Story,iOS,Brazil,40,No
+U0034,S00056,01-06-2025 04:31,Flipkart,Cart,Add to Cart,Android,Brazil,263,No
+U0156,S00050,03-06-2025 00:26,WhatsApp,Settings,Send Message,iOS,Brazil,24,No
+U0124,S00338,02-06-2025 11:35,Instagram,Home,Open App,Web,Brazil,5,No
+U0095,S00448,01-06-2025 11:51,WhatsApp,Settings,Video Call,Web,Brazil,224,No
+U0090,S00302,10-06-2025 03:42,Flipkart,Cart,Add to Cart,Web,Australia,299,No
+U0066,S00245,09-06-2025 17:07,Amazon,Cart,Search,Android,Australia,47,No
+U0105,S00132,03-06-2025 03:36,Myntra,Checkout,Checkout,Android,Canada,8,No
+U0002,S00193,08-06-2025 10:44,Instagram,Home,Comment,Android,Canada,166,No
+U0040,S00219,08-06-2025 09:55,YouTube,Video Page,Open App,Web,UK,138,No
+U0094,S00314,04-06-2025 03:14,Instagram,Profile,Comment,Web,Germany,109,No
+U0095,S00287,07-06-2025 07:31,YouTube,Profile,Search,iOS,UK,162,No
+U0102,S00377,02-06-2025 13:42,Instagram,Reels,Follow,Web,India,122,No
+U0055,S00261,05-06-2025 13:22,YouTube,Search,Open App,iOS,Australia,286,No
+U0100,S00494,08-06-2025 05:38,Instagram,Home,View Story,Android,Australia,51,No
+U0112,S00046,01-06-2025 17:29,Flipkart,Cart,Checkout,iOS,USA,194,No
+U0186,S00197,05-06-2025 13:24,Amazon,Checkout,Open App,Web,Canada,271,No
+U0199,S00420,02-06-2025 23:51,Myntra,Checkout,Open App,Web,Germany,229,No
+U0133,S00147,03-06-2025 05:10,Amazon,Search,Purchase,Android,Australia,266,Yes
+U0044,S00346,01-06-2025 09:50,Instagram,Story,Comment,iOS,USA,5,No
+U0200,S00205,05-06-2025 00:25,Flipkart,Home,View Product,Web,Germany,212,No
+U0004,S00378,09-06-2025 00:08,Instagram,Story,Comment,Android,India,286,No
+U0090,S00178,10-06-2025 06:41,Myntra,Checkout,Checkout,iOS,USA,104,No
+U0002,S00134,02-06-2025 23:47,YouTube,Profile,Comment,iOS,Brazil,59,No
+U0076,S00175,02-06-2025 07:57,Instagram,Home,Comment,Web,UK,280,No
+U0114,S00495,05-06-2025 06:58,Instagram,Reels,Follow,Web,Germany,129,No
+U0118,S00460,07-06-2025 16:14,Myntra,Cart,Purchase,Android,Germany,64,Yes
+U0163,S00404,03-06-2025 12:10,Myntra,Home,Add to Cart,Web,Canada,122,No
+U0133,S00275,01-06-2025 02:39,Myntra,Cart,View Product,Web,Australia,139,No
+U0103,S00345,09-06-2025 12:28,Flipkart,Product Page,Open App,iOS,India,288,No
+U0091,S00112,07-06-2025 12:39,Flipkart,Cart,View Product,iOS,USA,102,No
+U0189,S00124,10-06-2025 22:19,YouTube,Search,Search,iOS,USA,122,No
+U0092,S00080,09-06-2025 20:42,Flipkart,Search,Checkout,Android,India,45,No
+U0196,S00439,07-06-2025 03:51,WhatsApp,Settings,Open App,Android,Australia,251,No
+U0127,S00460,07-06-2025 12:52,Myntra,Checkout,View Product,iOS,Germany,98,No
+U0057,S00385,07-06-2025 13:28,Instagram,Reels,Like,Android,India,274,No
+U0009,S00258,04-06-2025 22:49,YouTube,Profile,Comment,iOS,Australia,94,No
+U0133,S00236,04-06-2025 14:11,YouTube,Home,Subscribe,Web,India,11,No
+U0149,S00052,04-06-2025 16:51,WhatsApp,Chat List,Video Call,iOS,Brazil,137,No
+U0061,S00138,06-06-2025 08:42,Flipkart,Checkout,View Product,Web,UK,192,No
+U0054,S00215,08-06-2025 23:20,Flipkart,Cart,Add to Cart,iOS,UK,210,No
+U0147,S00068,07-06-2025 13:15,Myntra,Cart,Browse Category,Web,USA,56,No
+U0143,S00222,10-06-2025 17:49,WhatsApp,Chat Screen,Send Message,iOS,USA,79,No
+U0003,S00091,05-06-2025 19:06,WhatsApp,Chat List,Video Call,iOS,USA,269,No
+U0077,S00129,07-06-2025 09:30,Instagram,Reels,Like,Web,India,208,No
+U0056,S00417,03-06-2025 21:26,Amazon,Search,Open App,iOS,Australia,54,No
+U0093,S00185,07-06-2025 09:00,YouTube,Video Page,Watch Video,Web,Australia,136,No
+U0032,S00180,10-06-2025 20:50,Myntra,Home,Add to Cart,Web,Brazil,106,No
+U0091,S00167,08-06-2025 15:49,Instagram,Story,Watch Reel,Web,Germany,233,No
+U0074,S00238,08-06-2025 04:29,Amazon,Cart,Checkout,Android,Australia,90,No
+U0162,S00314,07-06-2025 12:05,WhatsApp,Chat Screen,Video Call,iOS,Australia,41,No
+U0059,S00161,04-06-2025 14:31,Amazon,Search,View Product,Web,UK,141,No
+U0114,S00400,10-06-2025 19:36,Instagram,Profile,Watch Reel,iOS,Canada,271,No
+U0048,S00438,01-06-2025 06:18,YouTube,Profile,Search,Android,Canada,125,No
+U0054,S00086,05-06-2025 12:25,WhatsApp,Chat Screen,Open App,Android,India,37,No
+U0198,S00204,06-06-2025 23:04,YouTube,Home,Open App,Android,India,139,No
+U0168,S00477,05-06-2025 10:27,Instagram,Story,Open App,iOS,USA,131,No
+U0161,S00065,02-06-2025 11:50,WhatsApp,Chat Screen,Video Call,Web,Australia,92,No
+U0092,S00441,04-06-2025 16:48,Amazon,Home,Purchase,iOS,Germany,281,Yes
+U0035,S00497,08-06-2025 22:29,Myntra,Checkout,Add to Cart,Web,USA,238,No
+U0089,S00247,07-06-2025 03:21,WhatsApp,Settings,Voice Call,Android,Australia,50,No
+U0106,S00134,02-06-2025 18:31,YouTube,Video Page,Watch Video,iOS,India,5,No
+U0074,S00241,07-06-2025 02:07,Instagram,Story,Watch Reel,Android,Canada,256,No
+U0197,S00221,10-06-2025 01:53,YouTube,Video Page,Open App,iOS,Brazil,123,No
+U0049,S00211,07-06-2025 09:04,Amazon,Checkout,View Product,iOS,Germany,132,No
+U0057,S00135,01-06-2025 21:37,Flipkart,Cart,Add to Cart,iOS,Canada,127,No
+U0167,S00381,07-06-2025 01:15,Instagram,Reels,Watch Reel,iOS,Germany,101,No
+U0075,S00057,08-06-2025 05:54,Amazon,Search,Search,iOS,Brazil,236,No
+U0049,S00165,01-06-2025 05:17,Myntra,Checkout,Add to Cart,Android,India,278,No
+U0073,S00138,02-06-2025 10:08,Amazon,Search,Open App,Web,Germany,9,No
+U0004,S00253,03-06-2025 11:18,Flipkart,Home,Search,iOS,Germany,164,No
+U0179,S00406,01-06-2025 08:39,YouTube,Video Page,Like,iOS,India,79,No
+U0019,S00279,06-06-2025 08:22,Amazon,Product Page,Add to Cart,Android,USA,133,No
+U0197,S00366,03-06-2025 19:58,YouTube,Home,Open App,iOS,Australia,231,No
+U0118,S00377,09-06-2025 18:31,Flipkart,Home,Search,Android,Brazil,111,No
+U0080,S00480,04-06-2025 16:13,YouTube,Profile,Subscribe,Android,Canada,26,No
+U0124,S00327,04-06-2025 09:35,WhatsApp,Home,Voice Call,Android,UK,31,No
+U0061,S00325,05-06-2025 22:33,WhatsApp,Chat List,Open App,iOS,India,90,No
+U0102,S00405,03-06-2025 18:22,Myntra,Checkout,Open App,Android,India,248,No
+U0198,S00046,03-06-2025 19:55,WhatsApp,Chat List,Voice Call,Android,Germany,51,No
+U0016,S00183,08-06-2025 08:00,WhatsApp,Chat Screen,Open App,Android,Canada,279,No
+U0060,S00163,07-06-2025 08:28,Amazon,Search,Add to Cart,Web,Australia,182,No
+U0177,S00194,05-06-2025 01:48,YouTube,Search,Open App,Web,USA,133,No
+U0113,S00287,04-06-2025 08:28,Amazon,Cart,Purchase,Web,Canada,255,Yes
+U0140,S00179,04-06-2025 16:23,Flipkart,Checkout,Search,Web,Germany,145,No
+U0136,S00080,06-06-2025 02:42,Instagram,Story,Open App,iOS,Australia,139,No
+U0001,S00398,08-06-2025 06:13,Instagram,Reels,Like,Web,Germany,99,No
+U0199,S00318,03-06-2025 17:12,Amazon,Checkout,View Product,iOS,Canada,37,No
+U0135,S00350,06-06-2025 15:51,WhatsApp,Settings,Send Message,Web,USA,149,No
+U0083,S00057,02-06-2025 02:17,Myntra,Cart,Purchase,Web,Canada,39,Yes
+U0009,S00104,02-06-2025 05:13,Amazon,Search,Search,iOS,USA,55,No
+U0100,S00337,06-06-2025 13:46,Amazon,Checkout,Purchase,Web,Brazil,136,Yes
+U0156,S00368,01-06-2025 19:21,Amazon,Product Page,Search,Android,USA,256,No
+U0016,S00185,07-06-2025 08:22,Amazon,Cart,Purchase,Web,Germany,193,Yes
+U0136,S00021,09-06-2025 08:30,WhatsApp,Home,Voice Call,Android,Australia,160,No
+U0025,S00052,09-06-2025 06:01,Amazon,Search,Checkout,Android,Brazil,202,No
+U0169,S00128,07-06-2025 11:39,Flipkart,Search,Checkout,Web,USA,290,No
+U0197,S00327,07-06-2025 13:26,WhatsApp,Settings,Open App,iOS,Canada,239,No
+U0043,S00406,03-06-2025 01:15,WhatsApp,Settings,Open App,Web,Germany,263,No
+U0154,S00227,05-06-2025 00:12,Myntra,Category Page,Checkout,iOS,Brazil,171,No
+U0111,S00423,09-06-2025 06:12,Myntra,Cart,Purchase,iOS,Brazil,128,Yes
+U0197,S00282,09-06-2025 11:19,Instagram,Story,Like,iOS,UK,236,No
+U0186,S00018,04-06-2025 05:40,YouTube,Profile,Open App,Web,India,270,No
+U0077,S00114,03-06-2025 10:39,Flipkart,Product Page,Open App,iOS,India,146,No
+U0010,S00236,05-06-2025 01:07,Instagram,Story,Open App,Android,USA,140,No
+U0060,S00132,10-06-2025 05:28,Myntra,Checkout,Browse Category,iOS,India,297,No
+U0020,S00371,04-06-2025 16:39,YouTube,Search,Subscribe,iOS,USA,254,No
+U0010,S00375,10-06-2025 04:43,WhatsApp,Home,Voice Call,Web,Germany,45,No
+U0112,S00214,10-06-2025 20:58,Amazon,Product Page,View Product,Android,Australia,121,No
+U0014,S00157,06-06-2025 23:11,WhatsApp,Home,Video Call,Android,UK,281,No
+U0129,S00358,03-06-2025 12:17,Instagram,Story,Watch Reel,Android,India,206,No
+U0111,S00149,09-06-2025 22:43,YouTube,Home,Search,iOS,USA,72,No
+U0147,S00382,01-06-2025 13:27,Myntra,Home,Add to Cart,Web,Germany,139,No
+U0112,S00397,08-06-2025 22:33,Amazon,Cart,Checkout,Android,Australia,74,No
+U0102,S00334,07-06-2025 12:00,YouTube,Search,Like,Android,Brazil,273,No
+U0069,S00398,05-06-2025 21:26,Flipkart,Search,Open App,iOS,Canada,299,No
+U0106,S00217,05-06-2025 03:44,Amazon,Home,Purchase,iOS,USA,169,Yes
+U0007,S00395,04-06-2025 11:14,Myntra,Checkout,Purchase,Android,UK,231,Yes
+U0012,S00474,10-06-2025 07:24,Instagram,Story,Like,Android,USA,196,No
+U0190,S00028,03-06-2025 18:22,Flipkart,Home,Open App,Web,USA,152,No
+U0029,S00157,06-06-2025 02:53,Amazon,Product Page,Purchase,iOS,India,174,Yes
+U0053,S00280,06-06-2025 22:53,Flipkart,Checkout,Search,iOS,Brazil,252,No
+U0179,S00343,01-06-2025 05:01,Instagram,Story,Follow,iOS,Brazil,274,No
+U0016,S00146,03-06-2025 06:48,Amazon,Product Page,Search,Web,Brazil,143,No
+U0003,S00035,05-06-2025 10:07,Amazon,Cart,Purchase,Web,UK,189,Yes
+U0167,S00198,03-06-2025 15:07,Amazon,Home,View Product,iOS,Brazil,55,No
+U0137,S00046,03-06-2025 02:54,Myntra,Cart,Checkout,Android,Brazil,239,No
+U0064,S00473,07-06-2025 00:33,Instagram,Home,Open App,iOS,UK,255,No
+U0089,S00351,05-06-2025 00:05,YouTube,Search,Open App,iOS,Canada,159,No
+U0016,S00321,03-06-2025 22:21,Flipkart,Checkout,View Product,iOS,Australia,20,No
+U0039,S00175,05-06-2025 11:16,Instagram,Reels,View Story,Web,USA,49,No
+U0107,S00124,07-06-2025 12:26,WhatsApp,Settings,Send Message,Android,Germany,164,No
+U0139,S00068,03-06-2025 08:27,Instagram,Reels,Like,Web,USA,282,No
+U0080,S00353,09-06-2025 00:32,WhatsApp,Chat List,Send Message,Web,USA,225,No
+U0082,S00035,07-06-2025 08:11,Flipkart,Checkout,Search,Web,Canada,65,No
+U0187,S00016,09-06-2025 17:00,Flipkart,Product Page,Search,iOS,Germany,215,No
+U0164,S00478,09-06-2025 09:36,Myntra,Cart,Purchase,iOS,USA,101,Yes
+U0007,S00391,07-06-2025 23:06,Amazon,Search,Search,Web,UK,295,No
+U0060,S00119,08-06-2025 19:41,Instagram,Story,Comment,Android,UK,45,No
+U0129,S00434,07-06-2025 21:07,WhatsApp,Settings,Send Message,iOS,Canada,196,No
+U0122,S00071,02-06-2025 20:43,Flipkart,Cart,Add to Cart,Android,USA,21,No
+U0106,S00114,09-06-2025 10:42,YouTube,Home,Watch Video,Web,USA,109,No
+U0158,S00251,08-06-2025 19:49,Amazon,Search,Add to Cart,iOS,Australia,239,No
+U0199,S00022,07-06-2025 22:00,Flipkart,Cart,Add to Cart,Web,Australia,199,No
+U0157,S00481,09-06-2025 10:44,WhatsApp,Chat Screen,Video Call,Web,Brazil,279,No
+U0028,S00232,06-06-2025 04:45,Instagram,Home,Comment,Android,USA,270,No
+U0011,S00286,05-06-2025 09:47,Instagram,Profile,Follow,Web,Australia,30,No
+U0102,S00453,04-06-2025 11:09,Flipkart,Product Page,Add to Cart,iOS,Germany,90,No
+U0014,S00354,06-06-2025 21:10,YouTube,Video Page,Comment,Android,Germany,236,No
+U0047,S00399,07-06-2025 15:51,Amazon,Checkout,Open App,Web,Brazil,74,No
+U0116,S00013,03-06-2025 00:50,YouTube,Profile,Watch Video,iOS,Brazil,108,No
+U0083,S00355,08-06-2025 09:06,YouTube,Home,Watch Video,Web,Australia,88,No
+U0030,S00362,06-06-2025 02:42,WhatsApp,Home,Open App,Web,UK,48,No
+U0131,S00314,02-06-2025 19:39,Instagram,Profile,Follow,iOS,Brazil,199,No
+U0145,S00447,08-06-2025 12:05,Amazon,Search,View Product,Android,USA,79,No
+U0079,S00159,09-06-2025 07:22,Flipkart,Home,Add to Cart,iOS,UK,97,No
+U0001,S00319,09-06-2025 17:00,Amazon,Search,Search,iOS,India,239,No
+U0002,S00312,06-06-2025 14:44,YouTube,Profile,Comment,Android,USA,248,No
+U0021,S00308,07-06-2025 19:52,YouTube,Profile,Like,Android,USA,285,No
+U0143,S00420,10-06-2025 09:20,Myntra,Checkout,Purchase,Android,India,99,Yes
+U0090,S00019,02-06-2025 15:41,Flipkart,Home,Purchase,Android,Canada,300,Yes
+U0023,S00026,02-06-2025 05:44,Instagram,Reels,Watch Reel,iOS,USA,87,No
+U0117,S00384,07-06-2025 14:05,WhatsApp,Chat Screen,Send Message,iOS,India,52,No
+U0098,S00420,01-06-2025 18:28,Myntra,Product Page,View Product,iOS,Australia,286,No
+U0035,S00063,08-06-2025 21:40,Amazon,Product Page,Add to Cart,iOS,UK,274,No
+U0054,S00314,01-06-2025 15:53,YouTube,Search,Subscribe,Android,Brazil,275,No
+U0177,S00310,09-06-2025 23:13,Amazon,Cart,Purchase,Web,UK,223,Yes
+U0135,S00295,08-06-2025 02:11,Instagram,Reels,Watch Reel,iOS,USA,293,No
+U0047,S00453,07-06-2025 22:24,YouTube,Profile,Like,Android,Canada,153,No
+U0007,S00239,08-06-2025 02:47,Flipkart,Home,Open App,Android,Canada,111,No
+U0012,S00171,04-06-2025 23:28,Instagram,Profile,Like,Web,Australia,113,No
+U0073,S00131,09-06-2025 23:46,Amazon,Search,Purchase,Android,UK,158,Yes
+U0030,S00352,04-06-2025 19:00,Instagram,Reels,Open App,iOS,Germany,296,No
+U0050,S00170,10-06-2025 11:41,Instagram,Home,View Story,iOS,Canada,250,No
+U0035,S00247,02-06-2025 18:25,YouTube,Home,Subscribe,Web,Germany,279,No
+U0191,S00029,10-06-2025 12:02,Myntra,Cart,Add to Cart,Web,UK,294,No
+U0054,S00296,08-06-2025 19:11,WhatsApp,Chat Screen,Open App,iOS,Australia,186,No
+U0008,S00174,05-06-2025 06:27,Amazon,Search,View Product,Web,Brazil,89,No
+U0153,S00060,10-06-2025 20:05,Instagram,Profile,View Story,iOS,Canada,166,No
+U0106,S00045,06-06-2025 15:43,WhatsApp,Home,Voice Call,Android,UK,236,No
+U0078,S00090,02-06-2025 06:38,Myntra,Category Page,Checkout,iOS,Australia,24,No
+U0130,S00013,10-06-2025 02:11,Flipkart,Home,Add to Cart,iOS,Brazil,83,No
+U0188,S00448,06-06-2025 22:59,Flipkart,Product Page,Add to Cart,iOS,Australia,172,No
+U0174,S00068,03-06-2025 08:01,Flipkart,Home,Checkout,Web,India,240,No
+U0080,S00478,01-06-2025 12:01,YouTube,Home,Open App,Web,Australia,49,No
+U0027,S00267,09-06-2025 17:13,Myntra,Cart,Open App,Web,Canada,164,No
+U0164,S00457,03-06-2025 09:18,Amazon,Checkout,View Product,iOS,USA,103,No
+U0082,S00396,06-06-2025 00:27,Myntra,Product Page,Checkout,Web,India,144,No
+U0030,S00008,08-06-2025 02:06,Flipkart,Search,View Product,Web,Brazil,57,No
+U0141,S00164,04-06-2025 02:00,Flipkart,Checkout,View Product,Android,Canada,150,No
+U0019,S00160,07-06-2025 23:27,Instagram,Story,View Story,iOS,Brazil,232,No
+U0121,S00463,08-06-2025 16:27,Amazon,Search,Open App,Android,India,201,No
+U0101,S00092,09-06-2025 00:25,Amazon,Home,Add to Cart,Web,Brazil,233,No
+U0086,S00419,03-06-2025 06:06,Instagram,Reels,Watch Reel,Web,Australia,278,No
+U0034,S00048,10-06-2025 05:57,Amazon,Cart,Checkout,Web,Germany,54,No
+U0165,S00364,09-06-2025 17:18,YouTube,Video Page,Subscribe,iOS,Germany,123,No
+U0067,S00468,05-06-2025 03:14,Flipkart,Search,Checkout,iOS,USA,174,No
+U0008,S00034,06-06-2025 09:47,Myntra,Cart,Add to Cart,Android,UK,250,No
+U0197,S00179,07-06-2025 21:03,YouTube,Search,Watch Video,Web,USA,265,No
+U0028,S00167,07-06-2025 07:51,Amazon,Cart,Purchase,Web,India,159,Yes
+U0152,S00212,03-06-2025 17:08,Instagram,Profile,Like,Web,USA,285,No
+U0017,S00175,03-06-2025 08:51,Flipkart,Cart,Add to Cart,Web,Brazil,225,No
+U0178,S00121,02-06-2025 23:15,YouTube,Video Page,Comment,Web,Canada,44,No
+U0152,S00306,06-06-2025 06:24,WhatsApp,Settings,Open App,iOS,Brazil,54,No
+U0104,S00036,07-06-2025 19:21,YouTube,Search,Watch Video,Android,Canada,199,No
+U0170,S00032,02-06-2025 00:43,Myntra,Cart,Purchase,Android,Australia,76,Yes
+U0170,S00077,06-06-2025 03:41,Instagram,Home,View Story,Web,UK,204,No
+U0053,S00349,10-06-2025 23:35,Instagram,Profile,View Story,iOS,UK,296,No
+U0184,S00469,04-06-2025 22:00,WhatsApp,Chat Screen,Video Call,Android,Brazil,9,No
+U0076,S00032,05-06-2025 04:49,Instagram,Profile,View Story,Web,India,5,No
+U0073,S00444,01-06-2025 08:30,WhatsApp,Chat Screen,Open App,Android,Germany,206,No
+U0104,S00196,05-06-2025 22:50,WhatsApp,Chat Screen,Video Call,Web,USA,93,No
+U0143,S00197,10-06-2025 14:17,YouTube,Search,Search,iOS,Australia,218,No
+U0033,S00069,01-06-2025 03:10,Flipkart,Product Page,Purchase,Android,Canada,13,Yes
+U0112,S00500,02-06-2025 13:04,Flipkart,Cart,Purchase,Android,USA,217,Yes
+U0047,S00233,06-06-2025 19:06,YouTube,Profile,Comment,iOS,Brazil,235,No
+U0048,S00218,07-06-2025 21:05,YouTube,Video Page,Search,Android,Brazil,260,No
+U0106,S00475,07-06-2025 05:08,WhatsApp,Chat List,Voice Call,Web,UK,22,No
+U0181,S00189,02-06-2025 06:54,Amazon,Checkout,Add to Cart,Web,Germany,45,No
+U0120,S00265,01-06-2025 21:21,Flipkart,Checkout,View Product,Web,Brazil,50,No
+U0190,S00340,08-06-2025 14:36,Flipkart,Cart,Purchase,Android,Canada,281,Yes
+U0014,S00463,04-06-2025 21:48,Instagram,Reels,Comment,Web,Australia,10,No
+U0121,S00294,09-06-2025 08:22,YouTube,Profile,Comment,iOS,Germany,185,No
+U0010,S00356,07-06-2025 19:11,Myntra,Product Page,Browse Category,Web,UK,293,No
+U0122,S00297,02-06-2025 22:10,Myntra,Home,Purchase,Web,India,154,Yes
+U0125,S00043,02-06-2025 10:37,WhatsApp,Home,Voice Call,Web,India,147,No
+U0072,S00141,10-06-2025 18:15,Myntra,Category Page,Checkout,iOS,India,62,No
+U0190,S00078,08-06-2025 11:59,Instagram,Story,Comment,iOS,UK,94,No
+U0047,S00410,07-06-2025 00:00,Myntra,Category Page,Add to Cart,Android,UK,48,No
+U0127,S00386,05-06-2025 16:45,Flipkart,Checkout,Search,iOS,USA,230,No
+U0148,S00376,10-06-2025 13:52,WhatsApp,Chat List,Send Message,iOS,India,140,No
+U0119,S00205,06-06-2025 10:02,Amazon,Home,Search,iOS,Germany,277,No
+U0181,S00200,06-06-2025 09:35,Flipkart,Cart,Purchase,iOS,USA,276,Yes
+U0115,S00196,08-06-2025 17:16,YouTube,Home,Watch Video,iOS,Brazil,26,No
+U0091,S00490,10-06-2025 14:32,Amazon,Checkout,Purchase,iOS,Brazil,144,Yes
+U0026,S00131,08-06-2025 10:40,Myntra,Product Page,View Product,Web,Germany,241,No
+U0134,S00173,08-06-2025 17:03,WhatsApp,Chat List,Send Message,Web,USA,165,No
+U0003,S00426,01-06-2025 18:33,Instagram,Home,Follow,Android,Germany,55,No
+U0115,S00180,03-06-2025 11:54,Instagram,Home,Follow,Web,UK,133,No
+U0159,S00048,01-06-2025 15:31,Flipkart,Home,Open App,Web,Canada,116,No
+U0031,S00045,10-06-2025 17:51,Instagram,Home,Follow,Web,USA,197,No
+U0179,S00095,03-06-2025 21:10,WhatsApp,Chat List,Open App,iOS,Germany,43,No
+U0197,S00219,08-06-2025 21:01,WhatsApp,Settings,Voice Call,Web,Australia,170,No
+U0071,S00398,01-06-2025 17:02,Myntra,Category Page,Open App,iOS,Germany,175,No
+U0046,S00226,01-06-2025 18:57,Amazon,Product Page,View Product,iOS,USA,206,No
+U0037,S00277,09-06-2025 17:54,Flipkart,Cart,Open App,iOS,USA,59,No
+U0009,S00038,01-06-2025 19:13,YouTube,Video Page,Open App,Web,Canada,133,No
+U0039,S00335,08-06-2025 06:51,YouTube,Home,Like,Android,India,204,No
+U0085,S00464,05-06-2025 10:51,Myntra,Category Page,Purchase,Web,India,268,Yes
+U0112,S00207,10-06-2025 14:28,WhatsApp,Settings,Video Call,Web,Australia,40,No
+U0099,S00489,08-06-2025 20:12,Instagram,Story,Open App,iOS,India,295,No
+U0175,S00156,05-06-2025 13:23,Instagram,Reels,Watch Reel,Android,Canada,51,No
+U0021,S00431,06-06-2025 05:30,Myntra,Checkout,View Product,iOS,Canada,108,No
+U0099,S00339,03-06-2025 04:09,Flipkart,Checkout,Open App,iOS,Canada,204,No
+U0022,S00454,08-06-2025 04:47,Amazon,Product Page,Add to Cart,iOS,Canada,102,No
+U0007,S00369,07-06-2025 17:54,Flipkart,Home,Search,Android,Germany,204,No
+U0079,S00256,07-06-2025 01:48,Amazon,Checkout,Purchase,iOS,India,23,Yes
+U0185,S00022,05-06-2025 14:43,Myntra,Home,View Product,Android,USA,272,No
+U0149,S00120,01-06-2025 19:40,YouTube,Search,Subscribe,Android,Canada,77,No
+U0159,S00024,03-06-2025 18:16,YouTube,Home,Like,Web,Canada,71,No
+U0013,S00464,04-06-2025 11:55,Amazon,Search,Purchase,Android,Germany,92,Yes
+U0030,S00255,07-06-2025 18:28,Instagram,Home,Open App,Web,USA,37,No
+U0189,S00348,05-06-2025 13:46,Flipkart,Cart,View Product,iOS,India,299,No
+U0055,S00392,01-06-2025 12:26,Instagram,Story,Watch Reel,Web,USA,176,No
+U0037,S00388,05-06-2025 17:21,Amazon,Home,View Product,Android,Canada,194,No
+U0063,S00474,07-06-2025 14:55,Instagram,Story,Like,Android,USA,56,No
+U0005,S00451,06-06-2025 12:58,WhatsApp,Settings,Send Message,Android,India,8,No
+U0167,S00304,04-06-2025 05:28,Flipkart,Home,Purchase,iOS,Canada,248,Yes
+U0037,S00328,04-06-2025 01:59,WhatsApp,Chat List,Send Message,Web,Germany,215,No
+U0178,S00020,07-06-2025 18:49,Flipkart,Search,Checkout,Android,Canada,260,No
+U0078,S00179,05-06-2025 18:21,Instagram,Home,Follow,Android,Brazil,125,No
+U0025,S00317,05-06-2025 02:49,Flipkart,Home,Checkout,Web,Brazil,117,No
+U0014,S00100,02-06-2025 06:46,YouTube,Search,Watch Video,Android,Canada,247,No
+U0172,S00473,01-06-2025 11:46,YouTube,Search,Search,Android,Canada,191,No
+U0065,S00172,08-06-2025 00:25,Myntra,Category Page,Add to Cart,iOS,India,58,No
+U0041,S00403,01-06-2025 07:56,WhatsApp,Home,Send Message,iOS,Brazil,64,No
+U0114,S00304,07-06-2025 14:18,Amazon,Search,Purchase,iOS,Germany,106,Yes
+U0200,S00057,04-06-2025 17:03,WhatsApp,Chat Screen,Send Message,Android,India,126,No
+U0097,S00457,03-06-2025 12:15,WhatsApp,Settings,Send Message,Android,Germany,253,No
+U0056,S00476,07-06-2025 22:24,Amazon,Cart,Search,iOS,USA,203,No
+U0185,S00100,08-06-2025 04:35,Myntra,Category Page,Add to Cart,iOS,UK,108,No
+U0178,S00292,01-06-2025 16:17,Myntra,Category Page,Open App,iOS,USA,61,No
+U0044,S00390,04-06-2025 21:49,YouTube,Profile,Like,Android,UK,85,No
+U0023,S00211,10-06-2025 18:00,WhatsApp,Chat List,Send Message,Web,Germany,115,No
+U0072,S00008,09-06-2025 07:20,Instagram,Profile,Like,iOS,Canada,131,No
+U0149,S00114,07-06-2025 17:35,Flipkart,Product Page,Add to Cart,Android,Brazil,7,No
+U0121,S00376,09-06-2025 17:52,YouTube,Home,Open App,Web,India,222,No
+U0179,S00421,02-06-2025 02:45,Instagram,Profile,Like,iOS,Germany,128,No
+U0178,S00375,05-06-2025 15:02,Amazon,Checkout,Open App,Android,USA,188,No
+U0024,S00009,06-06-2025 11:00,Myntra,Category Page,Purchase,Web,UK,87,Yes
+U0117,S00238,09-06-2025 18:45,WhatsApp,Settings,Open App,Android,Australia,212,No
+U0119,S00361,08-06-2025 04:57,Flipkart,Product Page,Purchase,Android,Australia,41,Yes
+U0009,S00152,05-06-2025 20:17,YouTube,Video Page,Comment,iOS,Canada,282,No
+U0021,S00318,04-06-2025 19:40,Instagram,Story,Follow,Web,India,268,No
+U0029,S00197,05-06-2025 03:49,WhatsApp,Chat Screen,Open App,iOS,Brazil,25,No
+U0166,S00287,09-06-2025 00:28,Myntra,Product Page,Browse Category,Android,Brazil,109,No
+U0139,S00059,08-06-2025 09:13,Flipkart,Product Page,Search,iOS,Canada,112,No
+U0091,S00460,04-06-2025 01:00,WhatsApp,Chat List,Voice Call,Web,Canada,221,No
+U0096,S00177,06-06-2025 03:32,Myntra,Home,Open App,iOS,Brazil,274,No
+U0137,S00348,10-06-2025 09:23,Amazon,Cart,Purchase,Web,UK,236,Yes
+U0178,S00415,01-06-2025 17:55,Instagram,Reels,Follow,Android,Germany,49,No
+U0074,S00491,01-06-2025 21:00,Amazon,Cart,Search,Android,USA,146,No
+U0039,S00448,03-06-2025 07:46,Amazon,Search,Add to Cart,Web,Canada,16,No
+U0139,S00478,02-06-2025 12:03,Myntra,Cart,Purchase,iOS,UK,220,Yes
+U0049,S00033,01-06-2025 06:01,YouTube,Home,Watch Video,Android,Australia,271,No
+U0149,S00176,08-06-2025 11:03,WhatsApp,Chat Screen,Video Call,Web,Australia,172,No
+U0078,S00291,02-06-2025 12:01,YouTube,Profile,Like,iOS,USA,138,No
+U0074,S00395,10-06-2025 14:52,Flipkart,Cart,View Product,Android,USA,185,No
+U0159,S00474,02-06-2025 19:54,Myntra,Cart,Browse Category,Web,Brazil,151,No
+U0178,S00464,08-06-2025 13:57,Flipkart,Search,Purchase,Android,USA,126,Yes
+U0148,S00065,06-06-2025 00:23,Amazon,Home,View Product,iOS,UK,99,No
+U0009,S00341,04-06-2025 14:32,Flipkart,Checkout,Purchase,iOS,USA,195,Yes
+U0078,S00063,01-06-2025 06:48,YouTube,Search,Comment,iOS,Germany,79,No
+U0002,S00497,09-06-2025 09:39,YouTube,Video Page,Search,Web,Brazil,174,No
+U0075,S00497,09-06-2025 13:56,WhatsApp,Chat Screen,Video Call,Web,Canada,80,No
+U0177,S00058,09-06-2025 07:47,Instagram,Profile,Watch Reel,iOS,India,76,No
+U0007,S00206,08-06-2025 00:37,WhatsApp,Home,Voice Call,Android,Germany,187,No
+U0156,S00329,03-06-2025 05:17,Amazon,Product Page,Open App,Web,Brazil,118,No
+U0022,S00276,10-06-2025 15:57,Myntra,Category Page,Open App,iOS,Canada,49,No
+U0126,S00163,07-06-2025 20:42,Instagram,Profile,View Story,Web,Brazil,33,No
+U0038,S00367,10-06-2025 17:08,WhatsApp,Chat Screen,Video Call,iOS,UK,202,No
+U0089,S00180,04-06-2025 12:07,Myntra,Home,View Product,iOS,Australia,292,No
+U0114,S00380,05-06-2025 17:29,Amazon,Search,Purchase,iOS,UK,88,Yes
+U0036,S00428,07-06-2025 16:20,WhatsApp,Settings,Video Call,Web,India,78,No
+U0135,S00172,01-06-2025 18:03,Flipkart,Product Page,Add to Cart,Web,Australia,197,No
+U0164,S00469,04-06-2025 02:38,Amazon,Home,Add to Cart,iOS,USA,289,No
+U0048,S00427,05-06-2025 08:14,YouTube,Search,Search,iOS,Brazil,256,No
+U0078,S00253,07-06-2025 08:43,Amazon,Product Page,Checkout,Web,Germany,119,No
+U0068,S00154,08-06-2025 06:54,Amazon,Home,Search,Web,Germany,68,No
+U0046,S00252,08-06-2025 19:49,WhatsApp,Chat Screen,Video Call,Web,USA,19,No
+U0018,S00307,09-06-2025 11:35,Amazon,Product Page,Add to Cart,iOS,Brazil,251,No
+U0161,S00352,06-06-2025 09:59,Instagram,Profile,Watch Reel,Web,Australia,66,No
+U0148,S00009,10-06-2025 14:49,Myntra,Checkout,Purchase,iOS,USA,34,Yes
+U0178,S00070,05-06-2025 01:35,Flipkart,Product Page,Add to Cart,Android,India,144,No
+U0092,S00025,04-06-2025 07:09,Myntra,Cart,Purchase,iOS,Brazil,44,Yes
+U0047,S00392,02-06-2025 01:48,Instagram,Story,Follow,Web,Australia,90,No
+U0176,S00410,04-06-2025 10:12,Instagram,Reels,Watch Reel,iOS,Canada,190,No
+U0091,S00422,02-06-2025 15:14,Amazon,Checkout,Checkout,Android,USA,270,No
+U0106,S00175,02-06-2025 20:31,Myntra,Product Page,Add to Cart,Android,USA,84,No
+U0144,S00315,08-06-2025 20:19,Instagram,Story,View Story,Web,Australia,277,No
+U0118,S00470,01-06-2025 20:51,WhatsApp,Home,Video Call,Android,Australia,72,No
+U0080,S00354,05-06-2025 03:00,Amazon,Cart,View Product,Android,Australia,231,No
+U0182,S00156,01-06-2025 07:51,Instagram,Reels,View Story,Web,Australia,65,No
+U0037,S00353,03-06-2025 13:52,Flipkart,Search,Purchase,iOS,USA,112,Yes
+U0177,S00391,09-06-2025 22:05,Flipkart,Home,Add to Cart,Android,India,14,No
+U0051,S00056,01-06-2025 08:57,YouTube,Profile,Open App,Web,Brazil,35,No
+U0012,S00034,04-06-2025 10:22,YouTube,Home,Watch Video,Web,India,54,No
+U0151,S00462,03-06-2025 06:37,Amazon,Checkout,Search,Android,Canada,184,No
+U0192,S00483,04-06-2025 03:44,Amazon,Home,Search,Web,UK,185,No
+U0157,S00124,06-06-2025 17:52,Flipkart,Checkout,Purchase,Web,India,55,Yes
